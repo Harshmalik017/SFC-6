@@ -1,5 +1,5 @@
 # Location files for dropdown flow
-**Source folder:** `data/locations/`
+**Source folder:** `data/locations/` was removed after conversion. The original workbooks are preserved in git history at commit `68116e0` (`git show 68116e0:data/locations/...`).
 - **Rural (District > Zilla Panchayat > Block Panchayat > Gram Panchayat):** `UP - District wise Detail Report/*.xlsx` (75 files). Columns used: District Code/Name, Zilla Panchayat Code/Name, Block Panchayat Code/Name, Gram Panchayat Code/Name.
 - **Urban (District > Local Body):** `403 Uttar Pradesh Assembly Constituency wise Report/**/*.xlsx` (483 files). Columns used: District Code/Name, Local Body Code/Name, Ward Number/Name. Codes that match a rural GP code are GPs and are excluded; the other 765 codes are urban local bodies (ULBs).
 
@@ -9,7 +9,7 @@
 
 **Duplicates:** 22 ULB codes are listed under two districts in the source. Both listings are kept; the state total counts each code once.
 
-**Rebuild:** the generator is a one-off script (not in the repo). It reads the two folders above, normalises district names to `lib/districts.ts` slugs (aliases: Bara Banki, Kheri, Mahrajganj), and writes `lib/locations.json`.
+**Rebuild:** the generator is a one-off script (not in the repo). It reads the workbooks from commit `68116e0`, normalises district names to `lib/districts.ts` slugs (aliases: Bara Banki, Kheri, Mahrajganj), and writes `lib/locations.json`.
 
 **Use:** `lib/locations.ts` reads the JSON and exposes `blocksOf`, `gpsOf`, `bodiesOf`, `nameOf`, `districtName`, `BODY_TYPES`, and the count helpers `stateCounts`, `districtCounts`, `blockCounts`, `urbanCounts`. Count keys match the factsheet labels in `lib/factsheet.ts`.
 
