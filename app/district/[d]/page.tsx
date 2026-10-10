@@ -5,7 +5,8 @@ import { LocationPicker } from "@/components/location-picker";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { DISTRICTS } from "@/lib/districts";
 import { getLevel } from "@/lib/factsheet";
-import { BODY_TYPES, blocksOf, bodiesOf, districtCounts, districtName } from "@/lib/locations";
+import { blocksOf, bodiesOf, districtCounts, districtName } from "@/lib/locations";
+import { BODY_TYPES } from "@/lib/location-types";
 export const generateStaticParams = () => DISTRICTS.map((x) => ({ d: x.slug }));
 const chip = "rounded-full border px-3 py-1 text-sm hover:bg-muted";
 export default function District({ params: { d }, searchParams }: { params: { d: string }; searchParams: { view?: string } }) {

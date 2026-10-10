@@ -1,15 +1,8 @@
 import data from "./locations.json";
+import { BODY_TYPES, slugify, type Loc } from "./location-types";
 
-export type Loc = { name: string; slug: string };
 export type Counts = Record<string, string>;
-export const slugify = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 export const unslug = (s: string) => decodeURIComponent(s).split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
-export const BODY_TYPES: Loc[] = [
-  { name: "Nagar Nigam", slug: "nagar-nigam" },
-  { name: "Nagar Palika Parishad", slug: "nagar-palika-parishad" },
-  { name: "Nagar Panchayat", slug: "nagar-panchayat" },
-  { name: "Not yet classified", slug: "not-yet-classified" },
-];
 
 type Named = { code: number; name: string };
 type Block = Named & { gramPanchayats: Named[] };
@@ -30,8 +23,8 @@ const allLocalBodies = () => {
 export const districtName = (d: string) => find(d)?.name ?? unslug(d);
 export const blocksOf = (d: string): Loc[] => locs(find(d)?.blocks ?? []);
 export const gpsOf = (d: string, b: string): Loc[] => locs(find(d)?.blocks.find((x) => slugify(x.name) === b)?.gramPanchayats ?? []);
-export const bodiesOf = (d: string, t: string): Loc[] => locs((find(d)?.localBodies ?? []).filter((x) => slugify(x.type) === t));
 export const nameOf = (list: Loc[], v: string) => list.find((x) => x.slug === v)?.name ?? unslug(v);
+export const bodiesOf = (d: string, t: string): Loc[] => locs((find(d)?.localBodies ?? []).filter((x) => slugify(x.type) === t));
 
 export function stateCounts(): Counts {
   const blocks = DATA.flatMap((d) => d.blocks);

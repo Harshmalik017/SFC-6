@@ -1,0 +1,148 @@
+{
+  "unresolvedUlbDistricts": [
+    {
+      "code": 248993,
+      "name": "Garhmukteshwar",
+      "districts": [
+        "Ghaziabad",
+        "Hapur"
+      ]
+    },
+    {
+      "code": 249114,
+      "name": "Gunnaur",
+      "districts": [
+        "Budaun",
+        "Sambhal"
+      ]
+    },
+    {
+      "code": 249112,
+      "name": "Gawan",
+      "districts": [
+        "Sambhal",
+        "Budaun"
+      ]
+    },
+    {
+      "code": 297078,
+      "name": "Duddhi",
+      "districts": [
+        "Sonbhadra",
+        "Kushinagar"
+      ]
+    },
+    {
+      "code": 274822,
+      "name": "Yeida",
+      "districts": [
+        "Bulandshahr",
+        "Gautam Buddha Nagar"
+      ]
+    },
+    {
+      "code": 248885,
+      "name": "Kairana",
+      "districts": [
+        "Muzaffarnagar",
+        "Shamli"
+      ]
+    },
+    {
+      "code": 248883,
+      "name": "Unn",
+      "districts": [
+        "Muzaffarnagar",
+        "Shamli"
+      ]
+    },
+    {
+      "code": 248884,
+      "name": "Jhinjhana",
+      "districts": [
+        "Shamli",
+        "Muzaffarnagar"
+      ]
+    },
+    {
+      "code": 248886,
+      "name": "Kandhla",
+      "districts": [
+        "Muzaffarnagar",
+        "Shamli"
+      ]
+    },
+    {
+      "code": 248890,
+      "name": "Garhi Pukhta",
+      "districts": [
+        "Shamli",
+        "Muzaffarnagar"
+      ]
+    },
+    {
+      "code": 248891,
+      "name": "Thana Bhawan",
+      "districts": [
+        "Muzaffarnagar",
+        "Shamli"
+      ]
+    },
+    {
+      "code": 249412,
+      "name": "Sukrauli",
+      "districts": [
+        "Shrawasti",
+        "Kushinagar"
+      ]
+    },
+    {
+      "code": 248992,
+      "name": "Babugarh",
+      "districts": [
+        "Ghaziabad",
+        "Hapur"
+      ]
+    },
+    {
+      "code": 249159,
+      "name": "Jahanabad",
+      "districts": [
+        "Fatehpur",
+        "Pilibhit"
+      ]
+    },
+    {
+      "code": 249242,
+      "name": "Lalganj",
+      "districts": [
+        "Rae Bareli",
+        "Pratapgarh"
+      ]
+    },
+    {
+      "code": 277531,
+      "name": "Laalganj",
+      "districts": [
+        "Pratapgarh",
+        "Rae Bareli"
+      ]
+    },
+    {
+      "code": 297090,
+      "name": "Saifani",
+      "districts": [
+        "Etawah",
+        "Rampur"
+      ]
+    },
+    {
+      "code": 248935,
+      "name": "Bahjoi",
+      "districts": [
+        "Moradabad",
+        "Sambhal"
+      ]
+    }
+  ]
+}
