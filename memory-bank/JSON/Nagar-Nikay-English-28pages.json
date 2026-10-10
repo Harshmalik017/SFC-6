@@ -1,0 +1,999 @@
+{
+  "document_info": {
+    "title": "Sixth State Finance Commission, Uttar Pradesh",
+    "subtitle": "Details Form - Urban Local Body (Nagar Panchayat / Nagar Palika Parishad / Nagar Nigam)",
+    "total_pdf_pages": 28,
+    "printed_pages": 27,
+    "language": "English (translated from Hindi)",
+    "source_file": "5e7cb6c4-eab9-4663-91e4-986de6852905.pdf",
+    "note": "Scanned blank form, all amounts in lakh rupees"
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "type": "cover",
+      "title": "Sixth State Finance Commission, Uttar Pradesh",
+      "subtitle": "Details Form - Urban Local Body"
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": 1,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "fields": {
+        "district": "",
+        "type_of_body_Nagar_Panchayat_Parishad_Nigam": "",
+        "name_of_body": ""
+      },
+      "tables": [
+        {
+          "table_name": "1 - नगरीय निकाय के संबंध में सामान्य सूचनाएं",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "सूचना"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "वर्ष 2011 की जनगणना के अनुसार निकाय की जनसंख्या",
+              "उप": [
+                "(क) कुल जनसंख्या",
+                "(ख) अनुसूचित जाति",
+                "(ग) अनुसूचित जनजाति"
+              ],
+              "सूचना": ""
+            },
+            {
+              "क्र०": 2,
+              "मद": "निकाय में वार्डों की संख्या"
+            },
+            {
+              "क्र०": 3,
+              "मद": "निर्वाचित सदस्यों की संख्या"
+            },
+            {
+              "क्र०": 4,
+              "मद": "क्या निकाय निधि का ऑडिट प्रति वर्ष किया जाता है?"
+            },
+            {
+              "क्र०": "i",
+              "मद": "किस वर्ष तक ऑडिट हुआ"
+            },
+            {
+              "क्र०": "ii",
+              "मद": "ऑडिट आपत्तियों का निस्तारण"
+            }
+          ],
+          "unit": "सूचना"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": 2,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "2 - नगरीय निकाय की प्राप्तियाँ",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "राज्य वित्त आयोग की संस्तुतियों के आधार पर प्राप्त धनराशि"
+            },
+            {
+              "क्र०": 2,
+              "मद": "केन्द्रीय वित्त आयोग की संस्तुतियों के आधार पर प्राप्त धनराशि"
+            },
+            {
+              "क्र०": 3,
+              "मद": "राज्य सरकार से प्राप्त अनुदान/सहायता"
+            },
+            {
+              "क्र०": 4,
+              "मद": "केन्द्र सरकार से प्राप्त अनुदान/सहायता"
+            },
+            {
+              "क्र०": 5,
+              "मद": "स्वयं के स्रोतों से आय (कर एवं गैर-कर)"
+            },
+            {
+              "क्र०": "i",
+              "मद": "गृह कर"
+            },
+            {
+              "क्र०": "ii",
+              "मद": "जल कर"
+            },
+            {
+              "क्र०": "iii",
+              "मद": "अन्य कर"
+            },
+            {
+              "क्र०": "iv",
+              "मद": "गैर-कर राजस्व"
+            },
+            {
+              "क्र०": "",
+              "मद": "योग (5)"
+            },
+            {
+              "क्र०": "",
+              "मद": "महायोग (1 से 5)"
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": 3,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "3 - नगरीय निकाय द्वारा किये गये व्यय का विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "राज्य वित्त आयोग के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": 2,
+              "मद": "केन्द्रीय वित्त आयोग के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": 3,
+              "मद": "राज्य सरकार अनुदान के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": 4,
+              "मद": "स्वयं के स्रोतों से आय के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": "",
+              "मद": "योग"
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": 4,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "4 - नगरीय निकाय - प्राप्ति/व्यय/योजना विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 4 के अनुसार तालिका - विवरण दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": 5,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "5 - नगरीय निकाय - प्राप्ति/व्यय/योजना विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 5 के अनुसार तालिका - विवरण दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": 6,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "6 - नगरीय निकाय - प्राप्ति/व्यय/योजना विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 6 के अनुसार तालिका - विवरण दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": 7,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "7 - नगरीय निकाय - प्राप्ति/व्यय/योजना विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 7 के अनुसार तालिका - विवरण दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": 8,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "8 - नगरीय निकाय - प्राप्ति/व्यय/योजना विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 8 के अनुसार तालिका - विवरण दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": 9,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "9 - नगरीय निकाय - प्राप्ति/व्यय/योजना विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 9 के अनुसार तालिका - विवरण दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 11,
+      "printed_page_number": 10,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "10 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 10 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 12,
+      "printed_page_number": 11,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "11 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 11 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 13,
+      "printed_page_number": 12,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "12 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 12 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 14,
+      "printed_page_number": 13,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "13 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 13 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 15,
+      "printed_page_number": 14,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "14 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 14 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 16,
+      "printed_page_number": 15,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "15 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 15 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 17,
+      "printed_page_number": 16,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "16 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 16 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 18,
+      "printed_page_number": 17,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "17 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 17 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 19,
+      "printed_page_number": 18,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "18 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 18 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 20,
+      "printed_page_number": 19,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "19 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 19 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 21,
+      "printed_page_number": 20,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "20 - कार्य/परिसम्पत्ति/बजट विवरण",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25 स्थिति",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 20 के अनुसार - कार्य/मद दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 22,
+      "printed_page_number": 22,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "fields": {
+        "district": "",
+        "type_of_body_Nagar_Panchayat_Parishad_Nigam": "",
+        "name_of_body": ""
+      },
+      "tables": [
+        {
+          "table_name": "13 - Details of Liabilities of the Body (in lakh Rs.)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Status as on 31 March 2021",
+            "Status as on 31 March 2025"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "सरकारी ऋण",
+              "उप": [
+                "(क) योजनागत विकास कार्यों व निर्माण के लिए",
+                "(ख) अन्य ऋण",
+                "(ग) सहकारी संस्था को",
+                "(घ) अन्य संस्थाओं को"
+              ]
+            },
+            {
+              "क्र०": 2,
+              "मद": "गैर सरकारी ऋण"
+            },
+            {
+              "क्र०": 3,
+              "मद": "अन्य पर ब्याज की देय"
+            },
+            {
+              "क्र०": 4,
+              "मद": "विद्युत विभाग को देय"
+            },
+            {
+              "क्र०": 5,
+              "मद": "जल निगम को देय"
+            },
+            {
+              "क्र०": 6,
+              "मद": "सामान्य शुल्क"
+            },
+            {
+              "क्र०": 7,
+              "मद": "वेतन किराया"
+            },
+            {
+              "क्र०": 8,
+              "मद": "कर्मचारियों के वेतन व भत्तों की देनदारी"
+            },
+            {
+              "क्र०": 9,
+              "मद": "भविष्य निधि/पेंशन अंशदान के देय"
+            },
+            {
+              "क्र०": 10,
+              "मद": "पेंशन"
+            },
+            {
+              "क्र०": 11,
+              "मद": "अन्य देनदारियाँ (कृपया मदवार विवरण दें)",
+              "उप": [
+                "i",
+                "ii",
+                "iii",
+                "iv"
+              ]
+            },
+            {
+              "क्र०": "",
+              "मद": "योग (1 से 11)"
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 23,
+      "printed_page_number": 23,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "14 - Liabilities of the Body/ऋण अदायगी का विवरण (जारी)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Status as on 31 March 2021",
+            "Status as on 31 March 2025"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "ऋण अदायगी का विवरण"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 24,
+      "printed_page_number": 24,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "fields": {
+        "district": "",
+        "type_of_body_Nagar_Panchayat_Parishad_Nigam": "",
+        "name_of_body": ""
+      },
+      "tables": [
+        {
+          "table_name": "15 - Details of Assets of the Body (in lakh Rs.)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Status as on 31 March 2021",
+            "Status as on 31 March 2025"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "निकाय द्वारा दिए गए ऋण",
+              "उप": [
+                "(क) निजी संस्था को",
+                "(ख) सहकारी संस्था को",
+                "(ग) अन्य संस्थाओं को",
+                "अन्य निक्षेप (कृपया विवरण दें)",
+                "i",
+                "ii",
+                "iii",
+                "iv"
+              ]
+            },
+            {
+              "क्र०": 2,
+              "मद": "नकद धनराशि"
+            },
+            {
+              "क्र०": 3,
+              "मद": "पूँजी निवेश"
+            },
+            {
+              "क्र०": 4,
+              "मद": "अन्य निक्षेप (कृपया विवरण दें)"
+            },
+            {
+              "क्र०": "",
+              "मद": "योग (1 से 4)"
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 25,
+      "printed_page_number": 24,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "24 - अतिरिक्त परिसम्पत्ति/भविष्य की आवश्यकता",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Status as on 31 March 2021",
+            "Status as on 31 March 2025"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 24 के अनुसार विवरण"
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 26,
+      "printed_page_number": 25,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "25 - अतिरिक्त परिसम्पत्ति/भविष्य की आवश्यकता",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Status as on 31 March 2021",
+            "Status as on 31 March 2025"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 25 के अनुसार विवरण"
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 27,
+      "printed_page_number": 26,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "26 - अतिरिक्त परिसम्पत्ति/भविष्य की आवश्यकता",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Status as on 31 March 2021",
+            "Status as on 31 March 2025"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 26 के अनुसार विवरण"
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 28,
+      "printed_page_number": 27,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Urban Local Body",
+      "tables": [
+        {
+          "table_name": "घोषणा पत्र / प्रमाणीकरण",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Status as on 31 March 2021",
+            "Status as on 31 March 2025"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "प्रमाणित किया जाता है कि उपरोक्त सूचनाएं सत्य हैं"
+            },
+            {
+              "क्र०": 2,
+              "मद": "नगर निकाय अध्यक्ष के हस्ताक्षर व मुहर"
+            },
+            {
+              "क्र०": 3,
+              "मद": "अधिशासी अधिकारी के हस्ताक्षर व मुहर"
+            }
+          ],
+          "unit": "लाख रुपये में"
+        }
+      ]
+    }
+  ]
+}

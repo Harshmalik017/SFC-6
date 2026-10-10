@@ -1,0 +1,1258 @@
+{
+  "document_info": {
+    "title": "Sixth State Finance Commission (Panchayati Raj and Local Bodies) Uttar Pradesh",
+    "subtitle": "Details Form - Zila Panchayat (District Panchayat)",
+    "total_pdf_pages": 28,
+    "total_printed_pages": 27,
+    "language": "English (translated from Hindi)",
+    "source": "IMG_6089.pdf",
+    "note": "Scanned blank form - all amounts in thousand rupees"
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "header": "छठा राज्य वित्त आयोग (पंचायती राज और स्थानीय निकाय) उत्तर प्रदेश",
+      "type": "cover",
+      "title": "Sixth State Finance Commission (Panchayati Raj and Local Bodies) Uttar Pradesh",
+      "subtitle": "Details Form - Zila Panchayat",
+      "emblem": "Emblem of Uttar Pradesh Government"
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": 1,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "1 - General Information regarding Zila Panchayat",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "सूचना - स्त्री",
+            "सूचना - पुरुष",
+            "सूचना - योग"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "वर्ष 2011 की जनगणना के अनुसार जिला पंचायत की जनसंख्या",
+              "उप_मद": [
+                "(क) कुल जनसंख्या",
+                "(ख) अनुसूचित जाति",
+                "(ग) अनुसूचित जनजाति"
+              ],
+              "स्त्री": "",
+              "पुरुष": "",
+              "योग": ""
+            },
+            {
+              "क्र०": 2,
+              "मद": "जिला पंचायत के निर्वाचित सदस्यों की संख्या"
+            },
+            {
+              "क्र०": 3,
+              "मद": "जिला पंचायत में प्रादेशिक निर्वाचन क्षेत्रों/वार्डों की संख्या (मार्च 2025 तक)"
+            },
+            {
+              "क्र०": 4,
+              "मद": "जिला पंचायत में क्षेत्र पंचायतों की कुल संख्या"
+            },
+            {
+              "क्र०": 5,
+              "मद": "जिला पंचायत में ग्राम पंचायतों की कुल संख्या"
+            },
+            {
+              "क्र०": 6,
+              "मद": "जिला पंचायत की समितियों के गठन एवं अंतिम पुनर्गठन का वर्ष"
+            }
+          ],
+          "unit": "सूचना"
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": 2,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "1 (contd.) - Audit Details",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "टिप्पणी/√"
+          ],
+          "rows": [
+            {
+              "क्र०": 7,
+              "मद": "क्या जिला निधि का ऑडिट प्रति वर्ष किया जाता है? यदि हाँ तो विवरण दें"
+            },
+            {
+              "क्र०": "i",
+              "मद": "किस वर्ष तक के अभिलेखों का ऑडिट हुआ है - सही (√) लगायें"
+            },
+            {
+              "क्र०": "ii",
+              "मद": "किस-किस वर्ष की ऑडिट आपत्तियों का परिहार/निस्तारण किया जा चुका है"
+            },
+            {
+              "क्र०": "iii",
+              "मद": "प्रमुख लेखा परीक्षा आपत्तियाँ एवं किन वर्षों में ऑडिट प्रमाणपत्र जारी हुआ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": 3,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "2 - Receipts of Zila Panchayat",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "राज्य वित्त आयोग की संस्तुतियों के आधार पर प्राप्त धनराशि"
+            },
+            {
+              "क्र०": 2,
+              "मद": "केन्द्रीय वित्त आयोग की संस्तुतियों के आधार पर प्राप्त धनराशि"
+            },
+            {
+              "क्र०": 3,
+              "मद": "राज्य सरकार से प्राप्त अनुदान/सहायता"
+            },
+            {
+              "क्र०": 4,
+              "मद": "केन्द्र सरकार से प्राप्त अनुदान/सहायता"
+            },
+            {
+              "क्र०": 5,
+              "मद": "अन्य स्रोतों से प्राप्त अनुदान"
+            },
+            {
+              "क्र०": 6,
+              "मद": "स्वयं के स्रोतों से आय"
+            },
+            {
+              "क्र०": "i",
+              "मद": "स्वयं के स्रोत, आय का नाम (लिखें)"
+            },
+            {
+              "क्र०": "ii",
+              "मद": "स्वकर के स्रोत, धनराशि का नाम (लिखें)"
+            },
+            {
+              "क्र०": "",
+              "मद": "योग (5 से 6)"
+            },
+            {
+              "क्र०": "",
+              "मद": "महायोग (1 से 6)"
+            }
+          ],
+          "unit": "Amount in thousand Rs."
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": 4,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "3 - Details of Expenditure by Zila Panchayat",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "राज्य वित्त आयोग की संस्तुतियों के आधार पर प्राप्त धनराशि के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": 2,
+              "मद": "केन्द्रीय वित्त आयोग की संस्तुतियों के आधार पर प्राप्त धनराशि के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": 3,
+              "मद": "राज्य सरकार से प्राप्त अनुदान के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": 4,
+              "मद": "केन्द्र तथा राज्य सरकार के अनुदान/सहायता के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": 5,
+              "मद": "स्वयं के स्रोतों से आय के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": "i",
+              "मद": "स्वयं के स्रोत का नाम"
+            },
+            {
+              "क्र०": "ii",
+              "मद": "स्वकर के स्रोत के सापेक्ष व्यय"
+            },
+            {
+              "क्र०": "",
+              "मद": "योग (1 से 5)"
+            }
+          ],
+          "unit": "Amount in thousand Rs."
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": 5,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "4 - Details of amount received and expenditure/utilization in various government schemes",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21 प्राप्त",
+            "2020-21 व्यय/अवशेष",
+            "2021-22 प्राप्त",
+            "2021-22 व्यय/अवशेष",
+            "2022-23 प्राप्त",
+            "2022-23 व्यय/अवशेष",
+            "2023-24 प्राप्त",
+            "2023-24 व्यय/अवशेष",
+            "2024-25 प्राप्त",
+            "2024-25 व्यय/अवशेष"
+          ],
+          "rows": [
+            {
+              "क्र०": "(क)",
+              "मद": "मनरेगा"
+            },
+            {
+              "क्र०": "(ख)",
+              "मद": "स्वच्छ ग्रामीण पेयजल योजना / पाइप/हैण्डपम्प"
+            },
+            {
+              "क्र०": "(ग)",
+              "मद": "समग्र शिक्षा अभियान योजना"
+            },
+            {
+              "क्र०": "(घ)",
+              "मद": "स्वास्थ्य एवं परिवार कल्याण"
+            },
+            {
+              "क्र०": "(ङ)",
+              "मद": "स्वच्छ भारत मिशन (ग्रामीण)"
+            },
+            {
+              "क्र०": "(च)",
+              "मद": "मिड-डे मील योजना / मध्याह्न भोजन"
+            },
+            {
+              "क्र०": "(छ)",
+              "मद": "सांसद/विधायक निधि / स्थानीय निधि"
+            },
+            {
+              "क्र०": "(ज)",
+              "मद": "बैकवर्ड रीजन ग्रांट फंड / पिछड़ा क्षेत्र अनुदान"
+            },
+            {
+              "क्र०": "(झ)",
+              "मद": "कृषि विभाग"
+            },
+            {
+              "क्र०": "(ञ)",
+              "मद": "उद्यान विभाग"
+            },
+            {
+              "क्र०": "(ट)",
+              "मद": "एकीकृत बाल विकास"
+            },
+            {
+              "क्र०": "(ठ)",
+              "मद": "सर्व शिक्षा अभियान"
+            },
+            {
+              "क्र०": "(ड)",
+              "मद": "मत्स्य / पशुपालन"
+            },
+            {
+              "क्र०": "(ढ)",
+              "मद": "अन्य (विवरण लिखें)"
+            },
+            {
+              "क्र०": "1",
+              "मद": ""
+            },
+            {
+              "क्र०": "2",
+              "मद": ""
+            }
+          ],
+          "unit": "Amount in thousand Rs."
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": 6,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "5 - Details of works carried out against amount allocated on recommendations of State Finance Commission",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21 रखरखाव",
+            "2020-21 नया निर्माण",
+            "2021-22 रखरखाव",
+            "2021-22 नया",
+            "2022-23 रखरखाव",
+            "2022-23 नया",
+            "2023-24 रखरखाव",
+            "2023-24 नया",
+            "2024-25 रखरखाव",
+            "2024-25 नया"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "प्राथमिक स्वास्थ्य केन्द्र का रखरखाव"
+            },
+            {
+              "क्र०": 2,
+              "मद": "विद्यालय, आंगनबाड़ी केन्द्र भवन, पशु चिकित्सालय का निर्माण/मरम्मत"
+            },
+            {
+              "क्र०": 3,
+              "मद": "शौचालय का निर्माण"
+            },
+            {
+              "क्र०": 4,
+              "मद": "पेयजल आपूर्ति संबंधी कार्यों का संचालन"
+            },
+            {
+              "क्र०": 5,
+              "मद": "विद्युत कार्य/मरम्मत"
+            },
+            {
+              "क्र०": 6,
+              "मद": "ग्रामीण सम्पर्क मार्गों का अनुरक्षण/नवनिर्माण"
+            },
+            {
+              "क्र०": 7,
+              "मद": "जल निकासी हेतु नाली/नाला निर्माण का अनुरक्षण/मरम्मत/नवनिर्माण"
+            },
+            {
+              "क्र०": 8,
+              "मद": "सार्वजनिक प्रकाश व्यवस्था"
+            },
+            {
+              "क्र०": 9,
+              "मद": "तालाबों/पोखरों का अनुरक्षण"
+            },
+            {
+              "क्र०": 10,
+              "मद": "वृक्षारोपण"
+            },
+            {
+              "क्र०": 11,
+              "मद": "अन्य कार्य"
+            },
+            {
+              "क्र०": "i",
+              "मद": "योग (1 से 11)"
+            }
+          ],
+          "unit": "Amount in thousand Rs."
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": 7,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "6 - Details of works carried out against amount allocated on recommendations of Central Finance Commission",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21 रखरखाव",
+            "2020-21 नया",
+            "2021-22 रखरखाव",
+            "2021-22 नया",
+            "2022-23 रखरखाव",
+            "2022-23 नया",
+            "2023-24 रखरखाव",
+            "2023-24 नया",
+            "2024-25 रखरखाव",
+            "2024-25 नया"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पेयजलापूर्ति हेतु पम्प जलापूर्ति योजनाओं का निर्माण"
+            },
+            {
+              "क्र०": 2,
+              "मद": "नवीन पंचायत योजना"
+            },
+            {
+              "क्र०": 3,
+              "मद": "पंचायत एवं स्वच्छता सुविधा"
+            },
+            {
+              "क्र०": 4,
+              "मद": "जल निकासी/स्वच्छता पर व्यय"
+            },
+            {
+              "क्र०": 5,
+              "मद": "नवीन बंधारा"
+            },
+            {
+              "क्र०": 6,
+              "मद": "सीवेज व्यवस्था"
+            },
+            {
+              "क्र०": 7,
+              "मद": "सॉलिड लिक्विड वेस्ट मैनेजमेंट"
+            },
+            {
+              "क्र०": 8,
+              "मद": "स्ट्रीट लाइट"
+            },
+            {
+              "क्र०": 9,
+              "मद": "मूलभूत संरचना की योजना"
+            },
+            {
+              "क्र०": 10,
+              "मद": "मार्ग निर्माण एवं अनुरक्षण"
+            },
+            {
+              "क्र०": 11,
+              "मद": "अन्य नागरिक सुविधाओं का रखरखाव"
+            },
+            {
+              "क्र०": 12,
+              "मद": "अन्य (विवरण दें)"
+            },
+            {
+              "क्र०": "i",
+              "मद": "योग (1 से 12)"
+            }
+          ],
+          "unit": "Amount in thousand Rs."
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": 8,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "8 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 8 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": 9,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "9 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 9 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 11,
+      "printed_page_number": 10,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "10 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 10 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 12,
+      "printed_page_number": 11,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "11 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 11 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 13,
+      "printed_page_number": 12,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "12 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 12 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 14,
+      "printed_page_number": 13,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "13 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 13 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 15,
+      "printed_page_number": 14,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "14 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 14 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 16,
+      "printed_page_number": 15,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "15 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 15 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 17,
+      "printed_page_number": 16,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "16 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 16 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 18,
+      "printed_page_number": 17,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "17 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 17 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 19,
+      "printed_page_number": 18,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "18 - अतिरिक्त विवरण (परिसम्पत्ति, दायित्व, मानव संसाधन, बजट आदि)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "विवरण - पृष्ठ 18 के अनुसार - तालिका में दर्ज करें"
+            },
+            {
+              "क्र०": 2,
+              "मद": ""
+            },
+            {
+              "क्र०": 3,
+              "मद": ""
+            },
+            {
+              "क्र०": "योग",
+              "मद": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 20,
+      "printed_page_number": 19,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "3 - Details of Activities in Zila Panchayat",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "सामान्य जानकारी",
+            "कार्य का प्रकार",
+            "2024-25 कार्यकलाप",
+            "कुल योग (हजार रु०)"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "प्रशासनिक सेवाएं",
+              "उप": [
+                "i. 1 व 2 कक्षों की मरम्मत/जीर्णोद्धार",
+                "ii. रिकार्ड रूम/स्टोर",
+                "iii. प्रशिक्षण/कार्यशाला/सेमिनार"
+              ]
+            },
+            {
+              "क्र०": 2,
+              "मद": "सड़क सुरक्षा",
+              "उप": [
+                "i. सड़कों की मरम्मत/रखरखाव",
+                "ii. नालियों की मरम्मत",
+                "iii. खड़ंजा/सीसी रोड"
+              ]
+            },
+            {
+              "क्र०": 3,
+              "मद": "स्वास्थ्य सेवाएं",
+              "उप": [
+                "i. प्राथमिक स्वास्थ्य केन्द्र",
+                "ii. आंगनबाड़ी/पशु औषधालय भवन",
+                "iii. शौचालय/सेनेटरी नैपकिन"
+              ]
+            },
+            {
+              "क्र०": 4,
+              "मद": "शिक्षा",
+              "उप": [
+                "i. पुस्तकालय/कम्प्यूटर/ई-लर्निंग",
+                "ii. छात्रवृत्ति",
+                "iii. विद्यालय भवन/फर्नीचर",
+                "iv. आंगनबाड़ी/बाल केन्द्र"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 21,
+      "printed_page_number": 20,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "7 - Details of related activities in Zila Panchayats (contd.)",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "कार्य का प्रकार",
+            "2024-25 कार्यकलाप",
+            "कुल लागत (हजार रु०)"
+          ],
+          "rows": [
+            {
+              "क्र०": 5,
+              "मद": "स्वच्छता सेवाएं",
+              "उप": [
+                "i. ठोस अपशिष्ट प्रबंधन",
+                "ii. तरल अपशिष्ट प्रबंधन",
+                "iii. पशुपालन/शवदाह गृह/मोक्ष धाम",
+                "iv. शौचालय/कार्यालय/विश्राम स्थल",
+                "v. नाली/नाला निर्माण/मरम्मत",
+                "vi. पेयजल/कार्यालय/विश्राम स्थल"
+              ]
+            },
+            {
+              "क्र०": 6,
+              "मद": "अन्य नागरिक सेवाएं"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 22,
+      "printed_page_number": 21,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "21 - जिला पंचायत - अतिरिक्त सेवाएं/भविष्य की आवश्यकताएं",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 21 के अनुसार विवरण दर्ज करें"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 23,
+      "printed_page_number": 22,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "22 - जिला पंचायत - अतिरिक्त सेवाएं/भविष्य की आवश्यकताएं",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 22 के अनुसार विवरण दर्ज करें"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 24,
+      "printed_page_number": 23,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "23 - जिला पंचायत - अतिरिक्त सेवाएं/भविष्य की आवश्यकताएं",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 23 के अनुसार विवरण दर्ज करें"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 25,
+      "printed_page_number": 24,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "24 - जिला पंचायत - अतिरिक्त सेवाएं/भविष्य की आवश्यकताएं",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 24 के अनुसार विवरण दर्ज करें"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 26,
+      "printed_page_number": 25,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "25 - जिला पंचायत - अतिरिक्त सेवाएं/भविष्य की आवश्यकताएं",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 25 के अनुसार विवरण दर्ज करें"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 27,
+      "printed_page_number": 26,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "26 - जिला पंचायत - अतिरिक्त सेवाएं/भविष्य की आवश्यकताएं",
+          "columns": [
+            "क्र०सं०",
+            "मद",
+            "विवरण",
+            "2024-25",
+            "अभ्युक्ति"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "पृष्ठ 26 के अनुसार विवरण दर्ज करें"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 28,
+      "printed_page_number": 27,
+      "header": "Sixth State Finance Commission, Uttar Pradesh Details Form - Zila Panchayat",
+      "fields": {
+        "district_name": "",
+        "zila_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "14 - घोषणा पत्र / प्रमाणीकरण - जिला पंचायत अध्यक्ष/मुख्य अधिकारी के हस्ताक्षर",
+          "columns": [
+            "क्र०सं०",
+            "विवरण",
+            "हस्ताक्षर/मुहर"
+          ],
+          "rows": [
+            {
+              "क्र०": 1,
+              "मद": "प्रमाणित किया जाता है कि उपरोक्त सूचनाएं सत्य हैं"
+            },
+            {
+              "क्र०": 2,
+              "मद": "जिला पंचायत अध्यक्ष"
+            },
+            {
+              "क्र०": 3,
+              "मद": "अपर मुख्य अधिकारी"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

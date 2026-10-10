@@ -1,0 +1,495 @@
+{
+  "document_info": {
+    "title": "Sixth State Finance Commission (Panchayati Raj and Local Bodies) Uttar Pradesh",
+    "subtitle": "Details Form - Kshetra Panchayat (Block Panchayat)",
+    "handwritten_note_top_right": "063 @ Block",
+    "total_pdf_pages": 7,
+    "note": "PDF contains cover page + 6 printed pages (printed page numbers 1 to 6)"
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "type": "cover",
+      "content": {
+        "main_title": "Sixth State Finance Commission (Panchayati Raj and Local Bodies) Uttar Pradesh",
+        "sub_title": "Details Form - Kshetra Panchayat",
+        "emblem": "Emblem of Uttar Pradesh Government (in center)",
+        "handwritten": "063 @ Block"
+      }
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": 1,
+      "header": "Sixth State Finance Commission Details Form - Kshetra Panchayat",
+      "fields": {
+        "district_name": "",
+        "kshetra_panchayat_name": "",
+        "general_information_regarding_kshetra_panchayat": ""
+      },
+      "tables": [
+        {
+          "table_name": "1 - General Information",
+          "columns": [
+            "S.No.",
+            "Item",
+            "Information",
+            "Details"
+          ],
+          "sub_columns_under_Information": [
+            "Female",
+            "Male",
+            "Total"
+          ],
+          "rows": [
+            {
+              "S.No.": 1,
+              "Item": "Population of Kshetra Panchayat as per 2011 Census",
+              "sub_items": [
+                "(a) Total Population",
+                "(b) Scheduled Caste",
+                "(c) Scheduled Tribe"
+              ],
+              "Information": {
+                "Female": "",
+                "Male": "",
+                "Total": ""
+              }
+            },
+            {
+              "S.No.": 2,
+              "Item": "Number of elected members of Kshetra Panchayat",
+              "Information": ""
+            },
+            {
+              "S.No.": 3,
+              "Item": "Number of territorial constituencies/wards in Kshetra Panchayat (as of March 2025)",
+              "Information": ""
+            },
+            {
+              "S.No.": 4,
+              "Item": "Total number of Gram Panchayats in Kshetra Panchayat",
+              "Information": ""
+            },
+            {
+              "S.No.": 5,
+              "Item": "Year of last constitution/reconstitution of committees of Kshetra Panchayat",
+              "Information": ""
+            },
+            {
+              "S.No.": 6,
+              "Item": "Is audit of Kshetra Fund done every year? If yes, give details",
+              "sub_questions": [
+                {
+                  "i": "Up to which year records have been audited",
+                  "columns": [
+                    "2020-21",
+                    "2021-22",
+                    "2022-23",
+                    "2023-24",
+                    "2024-25"
+                  ],
+                  "instruction": "Put tick mark (√) against years for which audit has been done",
+                  "tick_mark": ""
+                },
+                {
+                  "ii": "For which years audit objections have been settled/resolved",
+                  "values": {
+                    "2020-21": "",
+                    "2021-22": "",
+                    "2022-23": "",
+                    "2023-24": "",
+                    "2024-25": ""
+                  }
+                },
+                {
+                  "iii": "Major audit objections, for which years audit certificates have been issued by audit committee and divisional level Uttar Pradesh",
+                  "values": {
+                    "2020-21": "",
+                    "2021-22": "",
+                    "2022-23": "",
+                    "2023-24": "",
+                    "2024-25": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": 2,
+      "header": "Sixth State Finance Commission Details Form - Kshetra Panchayat",
+      "fields": {
+        "district_name": "",
+        "kshetra_panchayat_name": "",
+        "Item": ""
+      },
+      "tables": [
+        {
+          "table_name": "2 - Receipts of Kshetra Panchayat",
+          "unit": "Amount (in thousand Rs.)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "S.No.": 1,
+              "Item": "Amount received by Kshetra Panchayat on basis of State Finance Commission recommendations"
+            },
+            {
+              "S.No.": 2,
+              "Item": "Amount received on basis of Central Finance Commission recommendations"
+            },
+            {
+              "S.No.": 3,
+              "Item": "Grant/aid received from State Government"
+            },
+            {
+              "S.No.": 4,
+              "Item": "Grant/aid received from Central Government"
+            },
+            {
+              "S.No.": 5,
+              "Item": "Grant received from other sources"
+            },
+            {
+              "S.No.": "i",
+              "Item": "Income from own sources"
+            },
+            {
+              "S.No.": "ii",
+              "Item": "Name of own tax source, amount (write in)"
+            },
+            {
+              "S.No.": "",
+              "Item": "Total"
+            },
+            {
+              "S.No.": "",
+              "Item": "Grand Total (1 to 6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": 3,
+      "header": "Sixth State Finance Commission Details Form - Kshetra Panchayat",
+      "fields": {
+        "district_name": "",
+        "kshetra_panchayat_name": "",
+        "Item": ""
+      },
+      "tables": [
+        {
+          "table_name": "3 - Details of expenditure made by Kshetra Panchayat",
+          "unit": "Information (Amount in thousand Rs.)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "2020-21",
+            "2021-22",
+            "2022-23",
+            "2023-24",
+            "2024-25"
+          ],
+          "rows": [
+            {
+              "S.No.": 1,
+              "Item": "Expenditure against amount received on basis of State Finance Commission recommendations"
+            },
+            {
+              "S.No.": 2,
+              "Item": "Expenditure against amount received on basis of Central Finance Commission recommendations"
+            },
+            {
+              "S.No.": 3,
+              "Item": "Expenditure against grant received from State Government"
+            },
+            {
+              "S.No.": 4,
+              "Item": "Expenditure against grant/aid from Central and State Government"
+            },
+            {
+              "S.No.": 5,
+              "Item": "Expenditure against income from own sources / contribution"
+            },
+            {
+              "S.No.": "i",
+              "Item": "Name of own source, amount (write in)"
+            },
+            {
+              "S.No.": "ii",
+              "Item": "Expenditure against name of own tax source (Delhi) "
+            },
+            {
+              "S.No.": "",
+              "Item": "Total (1 to 6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": 4,
+      "header": "Sixth State Finance Commission Details Form - Kshetra Panchayat",
+      "fields": {
+        "district_name": "",
+        "kshetra_panchayat_name": "",
+        "Item": ""
+      },
+      "tables": [
+        {
+          "table_name": "4 - Details of amount received and its expenditure/utilization in various government schemes (Please see note before filling income in previous column)",
+          "unit": "Information (Amount in thousand Rs.)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "2020-21 Received",
+            "2020-21 Balance/Expended",
+            "2021-22 Received",
+            "2021-22 Balance/Expended",
+            "2022-23 Received",
+            "2022-23 Balance/Expended",
+            "2023-24 Received",
+            "2023-24 Balance/Expended",
+            "2024-25 Received",
+            "2024-25 Balance/Expended"
+          ],
+          "rows": [
+            {
+              "S.No.": "(a)",
+              "Item": "MGNREGA"
+            },
+            {
+              "S.No.": "(b)",
+              "Item": "Rural Drinking Water Scheme / Water Supply (Pipe/Handpump)"
+            },
+            {
+              "S.No.": "(c)",
+              "Item": "Samagra Shiksha Abhiyan Scheme"
+            },
+            {
+              "S.No.": "(d)",
+              "Item": "Health and Family Welfare"
+            },
+            {
+              "S.No.": "(e)",
+              "Item": "Swachh Bharat Mission"
+            },
+            {
+              "S.No.": "(f)",
+              "Item": "Mid-Day Meal Scheme"
+            },
+            {
+              "S.No.": "(g)",
+              "Item": "MP/MLA Fund / Local Fund"
+            },
+            {
+              "S.No.": "(h)",
+              "Item": "Backward Region Grant Fund"
+            },
+            {
+              "S.No.": "(i)",
+              "Item": "Agriculture Department"
+            },
+            {
+              "S.No.": "(j)",
+              "Item": "Horticulture Department"
+            },
+            {
+              "S.No.": "(k)",
+              "Item": "Integrated Child Development"
+            },
+            {
+              "S.No.": "(l)",
+              "Item": "Sarva Shiksha Abhiyan"
+            },
+            {
+              "S.No.": "(m)",
+              "Item": "Fisheries/Animal Husbandry"
+            },
+            {
+              "S.No.": "(n)",
+              "Item": "Others (Write details/work/item name)"
+            },
+            {
+              "S.No.": 1,
+              "Item": ""
+            },
+            {
+              "S.No.": 2,
+              "Item": ""
+            }
+          ],
+          "note": "Note- All these schemes are those for which amount allocated by Central or State Government to Kshetra Panchayat comes, and details of which are transferred to Panchayats in new system."
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": 5,
+      "header": "Sixth State Finance Commission Details Form - Kshetra Panchayat",
+      "fields": {
+        "district_name": "",
+        "kshetra_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "5 - Details of works carried out against amount allocated to Kshetra Panchayat on recommendations of State Finance Commission",
+          "unit": "Expenditure on maintenance of assets/new construction works (in thousand Rs.)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "2020-21 Maintenance",
+            "2020-21 New",
+            "2021-22 Maintenance",
+            "2021-22 New",
+            "2022-23 Maintenance",
+            "2022-23 New",
+            "2023-24 Maintenance",
+            "2023-24 New",
+            "2024-25 Maintenance",
+            "2024-25 New"
+          ],
+          "rows": [
+            {
+              "S.No.": 1,
+              "Item": "Maintenance of Primary Health Centre"
+            },
+            {
+              "S.No.": 2,
+              "Item": "Construction/repair of School, Anganwadi Centre building, Veterinary Hospital"
+            },
+            {
+              "S.No.": 3,
+              "Item": "Construction of toilets"
+            },
+            {
+              "S.No.": 4,
+              "Item": "Operation of drinking water supply related works"
+            },
+            {
+              "S.No.": 5,
+              "Item": "Electricity works/repair"
+            },
+            {
+              "S.No.": 6,
+              "Item": "Maintenance/new construction of rural link roads, maintenance/repair/new construction of drains for drainage"
+            },
+            {
+              "S.No.": 7,
+              "Item": "Other works (if any done)"
+            },
+            {
+              "S.No.": "i",
+              "Item": "Total (1 to 6)"
+            },
+            {
+              "S.No.": "ii",
+              "Item": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": 6,
+      "header": "Sixth State Finance Commission Details Form - Kshetra Panchayat",
+      "fields": {
+        "district_name": "",
+        "kshetra_panchayat_name": ""
+      },
+      "tables": [
+        {
+          "table_name": "6 - Details of works carried out against amount allocated to Kshetra Panchayats on recommendations of Central Finance Commission",
+          "unit": "Expenditure on maintenance of assets/new construction works (in thousand Rs.)",
+          "columns": [
+            "S.No.",
+            "Item",
+            "2020-21 Maintenance",
+            "2020-21 New",
+            "2021-22 Maintenance",
+            "2021-22 New",
+            "2022-23 Maintenance",
+            "2022-23 New",
+            "2023-24 Maintenance",
+            "2023-24 New",
+            "2024-25 Maintenance",
+            "2024-25 New"
+          ],
+          "rows": [
+            {
+              "S.No.": 1,
+              "Item": "Construction of pump water supply schemes for drinking water supply"
+            },
+            {
+              "S.No.": 2,
+              "Item": "New Panchayat Yojana"
+            },
+            {
+              "S.No.": 3,
+              "Item": "Panchayat and sanitation facility"
+            },
+            {
+              "S.No.": 4,
+              "Item": "Repetition of amount spent from amount based on drainage/sanitation"
+            },
+            {
+              "S.No.": 5,
+              "Item": "Repetition of new bund"
+            },
+            {
+              "S.No.": 6,
+              "Item": "Sewerage system"
+            },
+            {
+              "S.No.": 7,
+              "Item": "Solid Liquid Waste Management"
+            },
+            {
+              "S.No.": 8,
+              "Item": "Street Light"
+            },
+            {
+              "S.No.": 9,
+              "Item": "Scheme for basic infrastructure"
+            },
+            {
+              "S.No.": 10,
+              "Item": "Road construction and maintenance"
+            },
+            {
+              "S.No.": 11,
+              "Item": "Maintenance and upkeep of other civic amenities"
+            },
+            {
+              "S.No.": 12,
+              "Item": "Others (Please give details)"
+            },
+            {
+              "S.No.": "i",
+              "Item": "Total (1 to 12)"
+            },
+            {
+              "S.No.": "ii",
+              "Item": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

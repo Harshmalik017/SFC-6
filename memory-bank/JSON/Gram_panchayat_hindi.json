@@ -1,0 +1,6698 @@
+{
+  "document": {
+    "document_title": "विवरण पत्र–ग्राम पंचायत, छठा राज्य वित्त आयोग (पंचायती राज और स्थानीय निकाय), उत्तर प्रदेश",
+    "language": "Hindi",
+    "total_pdf_pages": 25,
+    "extraction_note": "यह एक खाली फ़ॉर्म है; सभी 'values' रिक्त (null) हैं क्योंकि स्कैन में भरी हुई सूचनाएँ नहीं हैं। केवल हस्तलिखित निशान अलग से दर्ज हैं। जहाँ पाठ अस्पष्ट था, वहाँ '(पाठ अस्पष्ट)' लिखा है।"
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page_number": null,
+      "header_fields": [],
+      "section_title": "विवरण पत्र–ग्राम पंचायत",
+      "tables": [
+        {
+          "type": "cover_text",
+          "lines": [
+            "विवरण पत्र–ग्राम पंचायत",
+            "छठा राज्य वित्त आयोग",
+            "(पंचायती राज और स्थानीय निकाय)",
+            "उत्तर प्रदेश"
+          ],
+          "emblem": "राज्य का राजकीय चिह्न (मुहर) बीच में अंकित"
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "हस्तलिखित: '(3) village' तथा 'P.R.D' जैसा कुछ (अस्पष्ट)"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "printed_page_number": 1,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        },
+        {
+          "label": "क्षेत्र पंचायत का नाम जिसमें संदर्भित ग्राम पंचायत स्थित है",
+          "value": null
+        },
+        {
+          "label": "ग्राम प्रधान का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत के निर्वाचित सदस्यों की संख्या",
+          "value": null
+        },
+        {
+          "label": "महिला सदस्यों की संख्या",
+          "value": null
+        }
+      ],
+      "section_title": "ग्राम पंचायत के सम्बन्ध में सामान्य सूचनाएँ",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "सूचना"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "वर्ष 2011 की जनगणना के अनुसार पंचायत की जनसंख्या",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "कुल जनसंख्या",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "स्त्री",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "पुरुष",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "अनुसूचित जाति",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "स्त्री",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "पुरुष",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "अनुसूचित जनजाति",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "स्त्री",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "पुरुष",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "अन्य पिछड़ा वर्ग (रेनिक सर्वे के अनुसार)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "स्त्री",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "पुरुष",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "'ग्राम प्रधान का नाम' की पंक्ति पर सही (✓) जैसा निशान",
+        "(क) कुल जनसंख्या के 'iii योग' की पंक्ति पर तिरछी रेखा/निशान"
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "printed_page_number": 2,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "ग्राम पंचायत के सम्बन्ध में सामान्य सूचनाएँ",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "सूचना"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "पंचायत में राजस्व ग्रामों की संख्या (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "आबाद",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "गैरआबाद",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "पंचायत के गठन का वर्ष",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "पंचायत में प्रादेशिक निर्वाचन क्षेत्रों/वार्डों की संख्या (31 मार्च 2025 की स्थिति)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "पंचायत की सीमाओं के पुनर्गठन के अन्तिम पुनर्गठन का वर्ष",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "6",
+              "item": "पंचायत की भूमि/क्षेत्रफल (हैक्टेयर/वर्ग किलोमीटर में) (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "कुल क्षेत्रफल",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "कृषि योग्य भूमि का क्षेत्रफल",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "आबादी के अन्तर्गत क्षेत्रफल",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "7",
+              "item": "परिवारों की संख्या (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "समस्त परिवारों की संख्या",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "जिसमें अनुसूचित जाति",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "जिसमें अनुसूचित जनजाति",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "जिसमें पिछड़ा वर्ग",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "जिसमें सामान्य वर्ग",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        },
+        {
+          "table_note": "आगे की पंक्तियों 7(ख) व 7(ग) में 'सूचना' के स्थान पर दो वर्ष-स्तम्भ छपे हैं",
+          "columns": [
+            {
+              "column_no": 3,
+              "label": "वर्ष 2020–21"
+            },
+            {
+              "column_no": 4,
+              "label": "वर्ष 2024–25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "पात्र गृहस्थी + अन्त्योदय योजना के अन्तर्गत परिवारों की संख्या",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "जिसमें अनुसूचित जाति",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "जिसमें अनुसूचित जनजाति",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "जिसमें पिछड़ा वर्ग",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "जिसमें सामान्य वर्ग",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "पात्र गृहस्थी + अन्त्योदय योजना के अन्तर्गत जीवन यापन करने वालों की जनसंख्या",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "जिसमें अनुसूचित जाति",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "जिसमें अनुसूचित जनजाति",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "जिसमें पिछड़ा वर्ग",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "जिसमें सामान्य वर्ग",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            }
+          ]
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "6(क) 'कुल क्षेत्रफल' तथा 6(ख)/6(ग) के पास सही (✓) जैसे निशान"
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "printed_page_number": 3,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "ग्राम पंचायत के सम्बन्ध में सामान्य सूचनाएँ",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "सूचना"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "8",
+              "item": "ग्राम पंचायत में भवनों की संख्या (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "अनावासीय भवन",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "पंचायत भवन / ग्राम पंचायत सचिवालय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "सामुदायिक भवन",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "पंचायत के स्वामित्व वाले भवन",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "रिसोर्स रिकवरी सेन्टर",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "अन्नपूर्णा भवन (पाठ अस्पष्ट)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "बारात घर",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "9",
+              "item": "पंचायत का आर्थिक परिवेश (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "पंचायत क्षेत्र में कुल दुकानों की संख्या",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "स्थायी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "अस्थायी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "क्या हाट / बाजार लगती है, यदि हाँ",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "प्रतिदिन / सप्ताह में 2 बार",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "साप्ताहिक",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "पाक्षिक",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "सर्विस प्रोवाइडर्स द्वारा स्थापित मोबाईल टावर",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "निजी भवन / भूमि पर",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "पंचायत के स्वामित्व वाले भवन / भूमि पर",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "ग्राम पंचायत क्षेत्र में स्थापित फार्म हाउस / बैंक्वेट हॉल (संख्या)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "printed_page_number": 4,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "ग्राम पंचायत के सम्बन्ध में सामान्य सूचनाएँ",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "सूचना"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "10",
+              "item": "पंचायत द्वारा प्रदत्त मूलभूत सेवाएँ (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "पेयजल आपूर्ति",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "पाईपलाईन (संख्या)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "हैण्डपम्प (संख्या)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "मार्ग प्रकाश व्यवस्था (संख्या)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "सामान्य विद्युतीकृत पोल",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "सौरऊर्जा संचालित पोल",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "11",
+              "item": "शिक्षा अवस्थापना (संख्या) (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "प्राथमिक पाठशाला",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "शासकीय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "निजी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "जूनियर हाईस्कूल",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "शासकीय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "निजी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "हाईस्कूल",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "शासकीय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "निजी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "इण्टर मीडिएट",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "शासकीय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "निजी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ङ)",
+              "item": "स्नातक / स्नातकोत्तर महाविद्यालय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "शासकीय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "निजी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(च)",
+              "item": "निजी क्षेत्र द्वारा पंचायत क्षेत्र में स्थापित",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "मेडिकल कॉलेज (संख्या)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "नर्सिंग स्कूल (संख्या)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "इन्जीनियरिंग / टेक्निकल स्कूल / संस्थान (संख्या)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "अन्य (स्पष्ट करें)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "printed_page_number": 5,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "ग्राम पंचायत के सम्बन्ध में सामान्य सूचनाएँ",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "सूचना"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "12",
+              "item": "चिकित्सा एवं स्वास्थ्य अवस्थापना (संख्या) (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "ANM केन्द्र",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "प्राथमिक स्वास्थ्य केन्द्र",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "सामुदायिक स्वास्थ्य केन्द्र",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "निजी चिकित्सालय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "13",
+              "item": "पशुपालन एवं अन्य विकास अवस्थापना (संख्या) (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "पशु चिकित्सालय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "पशुपालन केन्द्र",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "पैरा लाईव स्टाक परसनैल",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "14",
+              "item": "सड़क एवं यातायात (कि०मी०) (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "कच्ची सड़क",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "खड़ंजा / प्रीकास्टेड सीमेंटेड इन्टरलॉकिंग टाईल्स",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "सीसीरोड",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "पक्की सड़क (कोलतार रोड)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "15",
+              "item": "पंचायत के अन्तर्गत सरकारी / गैरसरकारी क्षेत्र द्वारा स्थापित उद्योग (संख्या) (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "माइक्रो एन्टरप्राइजेज (रु० 1 करोड़ तक की लागत का विनिवेश तथा 10 करोड़ के अन्दर टर्नओवर)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "स्माल एन्टरप्राइजेज (रु० 10 करोड़ तक की लागत का विनिवेश तथा 50 करोड़ के अन्दर टर्नओवर)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "मीडियम एन्टरप्राइजेज (रु० 50 करोड़ तक की लागत का विनिवेश तथा 250 करोड़ के अन्दर टर्नओवर)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "16",
+              "item": "स्वच्छता एवं सफाई (संख्या) (31 मार्च 2025 की स्थिति)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "सार्वजनिक शौचालय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "महिला शौचालय कॉम्प्लेक्स",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "printed_page_number": 6,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "ग्राम पंचायत के सम्बन्ध में सामान्य सूचनाएँ",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "सूचना"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "17",
+              "item": "पंचायत की लेखा परीक्षा की स्थिति — यदि हाँ, तो उसके समक्ष सही (✓) का चिन्ह अथवा नहीं का चिन्ह लगायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "किन-किन वर्ष का ऑडिट हुआ है",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "2020-21",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "2021-22",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "2022-23",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "2023-24",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "2024-25",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "किन-किन वर्षों का परिपालन / निस्तारण किया जा चुका है",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "2020-21",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "2021-22",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "2022-23",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "2023-24",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "2024-25",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "मुख्य लेखा परीक्षा अधिकारी द्वारा किन-किन वर्षों का ऑडिट प्रमाणपत्र जारी किया जा चुका है",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "2020-21",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "2021-22",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "2022-23",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "2023-24",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "2024-25",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "18",
+              "item": "पंचायत द्वारा लिया गया ऋण व ऋण अदायगी (रू० हजार में)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "ऋण की कुल राशि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "ऋण अदायगी धनराशि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "अवशेष ऋण अदायगी धनराशि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "पृष्ठ के ऊपर वाला 'ग्राम पंचायत के सम्बन्ध में सामान्य सूचनाएँ' शीर्षक इसी पृष्ठ पर छपा है"
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "printed_page_number": 7,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "2 – ग्राम पंचायत द्वारा लगाये जा रहे कर / शुल्क / फीस की सामान्य सूचनाएँ",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "वर्ष 2020–21 में लागू दर"
+            },
+            {
+              "column_no": 4,
+              "label": "दरों के अन्तिम निर्धारण का वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "कर",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "मोटर / यंत्रचालित यान से भिन्न वाहनों पर कर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "विज्ञापन कर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "मनोरंजन कर (सिनेमा, थियेटर आदि)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "देय भू राजस्व पर कर (प्रतिशत में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "निजी शौचालयों / नालियों की सफाई पर कर (प्रति परिवार – रू० में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "सड़कों की सफाई एवं उन पर रोशनी व स्वच्छता पर कर (प्रति आवास – रू० में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "अन्य कर (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "शुल्क",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "शिक्षा शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "चिकित्सा शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "मेला तथा प्रदर्शनी शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "पेयजल हेतु जलापूर्ति पर प्रति आवास शुल्क (रू० में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "छोटी सिंचाई की परियोजना द्वारा सिंचाई हेतु जलापूर्ति पर शुल्क (प्रति हैक्टेयर – रू० में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "ग्राम पंचायत के स्वामित्व वाली हाटों / बाजार व भूमि पर बेचे गये पशुओं की रजिस्ट्री पर शुल्क, प्रति पशु (रू० में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "तहबाजारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "अन्य शुल्क (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "फीस (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "अन्य (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "printed_page_number": 8,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "3 – ग्राम पंचायत में विगत वर्षों की आय (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "पंचायत की अपने स्रोतों से आय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "कर राजस्व",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "मोटर / यंत्रचालित यान से भिन्न वाहनों पर कर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "विज्ञापन कर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "मनोरंजन कर (सिनेमा, थियेटर आदि)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "देय भू राजस्व पर कर (प्रतिशत में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "निजी शौचालयों / नालियों की सफाई पर कर (प्रति परिवार – रू० में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "सड़कों की सफाई एवं उन पर रोशनी व स्वच्छता पर कर (प्रति आवास – रू० में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "अन्य कर (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (1)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "करेत्तर राजस्व (शुल्क एवं फीस)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "अधिनियम में उल्लिखित",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "शिक्षा शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "चिकित्सा शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "मेला तथा प्रदर्शनी शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "पेयजल हेतु जलापूर्ति पर शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "छोटी सिंचाई की परियोजना द्वारा सिंचाई हेतु जलापूर्ति पर शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "पंचायत के स्वामित्व वाली हाटों / बाजार व भूमि पर बेचे गये पशुओं की रजिस्ट्री पर शुल्क, प्रति पशु",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "तहबाजारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "मृत पशु शव निस्तारण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ix",
+              "item": "हाट बाजार एवं दुकान का किराया",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "'कर राजस्व' की पंक्ति के पास हस्तलिखित 'Tax Revenue' (अस्पष्ट) तथा रेखा",
+        "'योग (1)' / करेत्तर राजस्व वाली पंक्ति के पास हस्तलिखित 'Non-tax Revenue'"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "printed_page_number": 9,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "3 – ग्राम पंचायत में विगत वर्षों की आय (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 2,
+              "serial_no": "x",
+              "item": "सम्पत्ति से आय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 3,
+              "serial_no": "(क)",
+              "item": "किराया / लीज",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 3,
+              "serial_no": "(ख)",
+              "item": "विक्रय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xi",
+              "item": "कृषि एवं वन पालन (नर्सरी) से आय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xii",
+              "item": "निवेश पर ब्याज",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiii",
+              "item": "पुरस्कार",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiv",
+              "item": "जिला निधि से प्राप्त ब्याज",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xv",
+              "item": "कृषि एवं तकनीकी (पाठ अस्पष्ट)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvi",
+              "item": "ग्रामीण जनमानस असाध्यता तथा ऋण (पाठ अस्पष्ट)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvii",
+              "item": "मछली पालन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xviii",
+              "item": "अन्य शुल्क (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (2 क)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "विभाग द्वारा आय के स्वरूप के अन्य स्रोत के रूप में सुझाए गये स्रोत",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "नये घरों के निर्माण पर शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "भवन के लिए कर, शुल्क अथवा फीस",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "बोरिंग पर टैक्स या स्वयं के अलावा बोरिंग से दूसरे के खेत की सिंचाई के लिए शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "ग्राम पंचायत की परिधि में आने वाले व्यवसाय पर शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "बाजार, हाट, मेले एवं उत्सव के आयोजन पर शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "आरओ वाटर के लिए सांकेतिक दर पर पीने के पानी की उपलब्धता (पाठ आंशिक अस्पष्ट)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "सड़क के किनारे की जमीन पर दुकान बनाकर किराया वसूलना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "राजस्व संहिता के नियमों का पालन करते हुए तालाबों के पट्टे का शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ix",
+              "item": "सार्वजनिक सम्पत्ति पर शुल्क का अधिरोपण एवं प्रबन्धन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "x",
+              "item": "ग्राम पंचायत की खाली जमीन पर औषधीय खेती एवं आय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "यह पृष्ठ पिछले पृष्ठ की तालिका (मद 2 – करेत्तर राजस्व) की निरन्तरता है"
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "printed_page_number": 10,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "3 – ग्राम पंचायत में विगत वर्षों की आय (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 2,
+              "serial_no": "xi",
+              "item": "ओपन जिम / पार्क / सामुदायिक भवन आदि के सार्वजनिक उपयोग से आय का सृजन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xii",
+              "item": "ग्राम पंचायत की सड़क से गुजरने वाले भारी वाहनों से कर वसूली",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiii",
+              "item": "पंचायत की बंजर भूमि को किराये पर उठाकर आय सृजित करना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiv",
+              "item": "कूड़ा–कचरा प्रबन्धन पर सुविधा शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xv",
+              "item": "गौशाला के उत्पादों से आय का सृजन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvi",
+              "item": "सोलर पैनल लगाकर बिजली की सप्लाई एवं शुल्क अधिरोपण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvii",
+              "item": "लघु वन उपज शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xviii",
+              "item": "जन सेवा केन्द्र से शुल्क अथवा फीस",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xix",
+              "item": "पुस्तकालय से टैक्स",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xx",
+              "item": "खानों एवं खदानों के प्रयोग से टैक्स",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxi",
+              "item": "ईंट भट्टों से टैक्स",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxii",
+              "item": "मत्स्य पालन से शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxiii",
+              "item": "स्वयं सहायता समूह के व्यवसाय से शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxiv",
+              "item": "व्यक्तिगत पशुओं से ग्राम पंचायत के बाग, वन, पेड़-पौधे की हानि से टैक्स",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxv",
+              "item": "तालाबों के पट्टों की नीलामी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxvi",
+              "item": "बारात घर पर शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (2 ख)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (2 क+ख)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "योग (1+2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "अनुदान",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "राज्य सरकार से प्राप्त अनुदान (राज्य वित्त आयोग को छोड़ कर)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "विकास कार्यों की योजनाओं हेतु",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "अन्य",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (क)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "केन्द्र सरकार से प्राप्त अनुदान (केन्द्रीय वित्त आयोग को छोड़ कर)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "विकास कार्यों की योजनाओं हेतु",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "अन्य",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (ख)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "केन्द्रीय वित्त आयोग की संस्तुतियों के अन्तर्गत प्राप्त अनुदान",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (ग)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "मद 3 के उप-मद (क) से (ग) इसी पृष्ठ पर हैं; (घ) अगले पृष्ठ पर है"
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "printed_page_number": 11,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "3 – ग्राम पंचायत में विगत वर्षों की आय (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "राष्ट्रीय / अन्तर्राष्ट्रीय संस्थाओं से प्राप्त अनुदान",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "अन्तर्राष्ट्रीय संस्थाओं से",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "राष्ट्रीय संस्थाओं से (CSR सहित)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "मातृभूमि योजना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "अन्य / व्यक्तियों से",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (घ)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "कुल अनुदान (क+ख+ग+घ)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "राज्य वित्त आयोग की संस्तुतियों के अन्तर्गत संक्रमित धनराशि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "जिला पंचायत से ग्राम पंचायतों को प्राप्त होने वाला अंशदान",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "6",
+              "item": "ऋणों से आय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "7",
+              "item": "जमा धनराशि पर ब्याज",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "8",
+              "item": "अन्य श्रोतों से आय, यदि कोई हो",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "कुल योग (1 से 8)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "printed_page_number": 12,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "4 – ग्राम पंचायत में विगत वर्षों का व्यय (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "राजस्व व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "अधिष्ठान तथा कार्यालय व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "अधिकारियों / कर्मचारियों के वेतन, भत्ते आदि पर व्यय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "कार्यालय व्यय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "आडिट शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "वादों / मुकदमों पर व्यय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "मानदेय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "बैठक भत्ता",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "यात्रा भत्ता",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "अन्य व्यय (अन्य यदि कोई हो)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (राजस्व व्यय)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "पूँजीगत व्यय / निर्माण कार्यों पर व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "भवन निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "सड़क निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "पुलों / पुलियों का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "नाली / नालों का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ङ)",
+              "item": "बंधों का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(च)",
+              "item": "पार्कों का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(छ)",
+              "item": "सार्वजनिक शौचालयों का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ज)",
+              "item": "चेक डैम का निर्माण / पुनर्निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(झ)",
+              "item": "तालाब का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ट)",
+              "item": "अन्य निर्माण (विवरण दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (पूँजीगत व्यय)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 14,
+      "printed_page_number": 13,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "4 – ग्राम पंचायत में विगत वर्षों का व्यय (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "वर्ष"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "वर्ष"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "सम्पत्तियों के रख रखाव पर व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "सड़क अनुरक्षण पर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "भवन अनुरक्षण पर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "मोटर गाड़ी / साइकिल-रिक्शा आदि के रखरखाव",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "4",
+              "item": "नालियों के रखरखाव पर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "5",
+              "item": "पार्कों के रखरखाव पर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "6",
+              "item": "पेयजल सुविधा / हैण्डपम्पों के रखरखाव पर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "7",
+              "item": "पुलों / पुलियों के रखरखाव पर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "8",
+              "item": "अन्य व्यय, यदि कोई हो",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (3)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "सामाजिक सेवाओं पर व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "चिकित्सा एवं औषधि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "शिक्षा",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "जलापूर्ति (कन्ज्यूमेबल एवं विद्युत सहित)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "4",
+              "item": "सफाई आदि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "5",
+              "item": "मेला प्रदर्शनी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "6",
+              "item": "अन्य व्यय, यदि कोई हो",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (4)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "उपभोग से भिन्न मद पर व्यय (पाठ आंशिक अस्पष्ट)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "जिला पंचायत से ग्राम पंचायतों को प्राप्त होने वाला अंशदान के सापेक्ष व्यय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "अन्य व्यय यदि कोई हो",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (5)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "कुल योग (1 से 5)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "यह पृष्ठ मद 4 की निरन्तरता है (मद 1 व 2 पिछले पृष्ठ पर)"
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "printed_page_number": 14,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "5 – विभिन्न सरकारी योजनाओं में ग्राम पंचायतों को प्राप्त धनराशि एवं उपयोग (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "आय",
+              "group": "वर्ष 2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "व्यय",
+              "group": "वर्ष 2020-21"
+            },
+            {
+              "column_no": 5,
+              "label": "आय",
+              "group": "वर्ष 2021-22"
+            },
+            {
+              "column_no": 6,
+              "label": "व्यय",
+              "group": "वर्ष 2021-22"
+            },
+            {
+              "column_no": 7,
+              "label": "आय",
+              "group": "वर्ष 2022-23"
+            },
+            {
+              "column_no": 8,
+              "label": "व्यय",
+              "group": "वर्ष 2022-23"
+            },
+            {
+              "column_no": 9,
+              "label": "आय",
+              "group": "वर्ष 2023-24"
+            },
+            {
+              "column_no": 10,
+              "label": "व्यय",
+              "group": "वर्ष 2023-24"
+            },
+            {
+              "column_no": 11,
+              "label": "आय",
+              "group": "वर्ष 2024-25"
+            },
+            {
+              "column_no": 12,
+              "label": "व्यय",
+              "group": "वर्ष 2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "मनरेगा",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "स्वर्ण जयंती ग्राम स्वरोजगार योजना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "प्रधानमंत्री आवास योजना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "ग्रामीण पेय जल योजना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "स्वच्छ भारत मिशन ग्रामीण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "6",
+              "item": "मिड-डे मील योजना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "7",
+              "item": "वृद्धावस्था / निराश्रित महिला / विकलांग पेंशन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "8",
+              "item": "आरजीपीएसए (पाठ अस्पष्ट)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "9",
+              "item": "अन्त्येष्टि स्थलों का विकास",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "10",
+              "item": "मातृभूमि योजना में शासकीय अंश",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "11",
+              "item": "गौशाला",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "12",
+              "item": "अन्य, यदि कोई हो",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "कुल योग (1 से 12)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "printed_page_number": "15 (छपा नहीं दिखता; क्रम से अनुमानित)",
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "6 – ग्राम पंचायत के स्वामित्व वाले आवासीय / अनावासीय भवनों की सूचना",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "(1)",
+              "item": "पंचायत के आवासीय / अनावासीय भवन",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "आवासीय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "भवनों की संख्या",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "भवनों के रख रखाव पर व्यय (लाख रू०)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "अनावासीय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "भवनों की संख्या",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "भवनों के रख रखाव पर व्यय (रू० हजार में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(2)",
+              "item": "पंचायत के सड़कों व पुलों की सूचना",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "सड़क",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "सड़कों की लम्बाई (कि०मी०)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "सड़कों के रख रखाव पर व्यय (रू० हजार में)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "पुल",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "पुलों की संख्या",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "पुलों की मरम्मत व रख रखाव पर व्यय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "इस पृष्ठ पर पृष्ठ-संख्या दिखाई नहीं देती; पिछला पृष्ठ 14 और अगला 16 है, अतः क्रमानुसार 15"
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "printed_page_number": 16,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "7 – ग्राम पंचायत में कार्यरत कर्मचारियों का विवरण",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "शासन द्वारा स्वीकृत पदों की संख्या",
+              "group": "वर्ष 2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "कार्यरत कर्मचारी",
+              "group": "वर्ष 2020-21"
+            },
+            {
+              "column_no": 5,
+              "label": "वेतन भत्ते आदि पर व्यय (लाख रू०में)",
+              "group": "वर्ष 2020-21"
+            },
+            {
+              "column_no": 6,
+              "label": "शासन द्वारा स्वीकृत पदों की संख्या",
+              "group": "वर्ष 2021-22"
+            },
+            {
+              "column_no": 7,
+              "label": "कार्यरत कर्मचारी",
+              "group": "वर्ष 2021-22"
+            },
+            {
+              "column_no": 8,
+              "label": "वेतन भत्ते आदि पर व्यय (लाख रू०में)",
+              "group": "वर्ष 2021-22"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "प्रशासनिक सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "श्रेणी 1 व 2 अधिकारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "लेखा सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "राजस्व सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "अभियंत्रण सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "अधिकारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "क",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "printed_page_number": 17,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "7 – ग्राम पंचायत में कार्यरत कर्मचारियों का विवरण",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "शासन द्वारा स्वीकृत पदों की संख्या",
+              "group": "वर्ष 2022-23"
+            },
+            {
+              "column_no": 4,
+              "label": "कार्यरत कर्मचारी",
+              "group": "वर्ष 2022-23"
+            },
+            {
+              "column_no": 5,
+              "label": "वेतन भत्ते आदि पर व्यय (लाख रू०में)",
+              "group": "वर्ष 2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "शासन द्वारा स्वीकृत पदों की संख्या",
+              "group": "वर्ष 2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "कार्यरत कर्मचारी",
+              "group": "वर्ष 2023-24"
+            },
+            {
+              "column_no": 8,
+              "label": "वेतन भत्ते आदि पर व्यय (लाख रू०में)",
+              "group": "वर्ष 2023-24"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "प्रशासनिक सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "श्रेणी 1 व 2 अधिकारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "लेखा सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "राजस्व सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "अभियंत्रण सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "अधिकारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "क",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "printed_page_number": 18,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "7 – ग्राम पंचायत में कार्यरत कर्मचारियों का विवरण",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "शासन द्वारा स्वीकृत पदों की संख्या",
+              "group": "वर्ष 2024-25"
+            },
+            {
+              "column_no": 4,
+              "label": "कार्यरत कर्मचारी",
+              "group": "वर्ष 2024-25"
+            },
+            {
+              "column_no": 5,
+              "label": "वेतन भत्ते आदि पर व्यय (लाख रू०में)",
+              "group": "वर्ष 2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "प्रशासनिक सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "श्रेणी 1 व 2 अधिकारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "लेखा सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "राजस्व सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "अभियंत्रण सेवायें",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "अधिकारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "तृतीय श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "चतुर्थ श्रेणी कर्मचारी",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "क",
+              "item": "संविदा कर्मचारी / दैनिक वेतन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "printed_page_number": 19,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "8 – ग्राम पंचायत की देनदारियां (गत वर्ष के अवशेष सहित 31 मार्च 2025 की स्थिति – रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "सूचना"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "(1)",
+              "item": "विद्युत परिषद को देय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(2)",
+              "item": "जल निगम को देय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(3)",
+              "item": "भवन किराया",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(4)",
+              "item": "गैर सरकारी ऋण",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(5)",
+              "item": "वेतन व भत्ते की देनदारी",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(6)",
+              "item": "पेन्शन का देय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(7)",
+              "item": "ग्रेच्युटी का देय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(8)",
+              "item": "टेलीफोन शुल्क का देय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(9)",
+              "item": "पेन्शन अंशदान का देय",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(10)",
+              "item": "अन्य (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "योग (1 से 10)",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "printed_page_number": 20,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "9 – ग्राम पंचायत की परिसम्पत्तियां (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "संख्या",
+              "group": "वर्ष 2024-25"
+            },
+            {
+              "column_no": 4,
+              "label": "मूल्य",
+              "group": "वर्ष 2024-25"
+            },
+            {
+              "column_no": 5,
+              "label": "रखरखाव पर व्यय",
+              "group": "वर्ष 2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "चल परिसम्पत्तियाँ",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "दिये गये ऋण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "बैंक तथा डाक घर में जमा",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "पूँजी निवेश",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "अन्य चल परिसम्पत्तियाँ (यदि कोई हो, का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (1)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "अचल परिसम्पत्तियाँ",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "आवासीय भवन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "अनावासीय भवन",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "क",
+              "item": "कार्यालय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ख",
+              "item": "चिकित्सालय / औषधालय भवन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ग",
+              "item": "विद्यालय भवन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "घ",
+              "item": "गौशाला",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ङ",
+              "item": "दुकानें",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "च",
+              "item": "अन्य अचल सम्पत्तियाँ यदि कोई हों, का विवरण भी दें",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "कुल योग (1 से 2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 22,
+      "printed_page_number": 21,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "10 – ग्राम पंचायत को राज्य वित्त आयोग की संस्तुतियों के आधार पर प्राप्त एवं उपयोग की धनराशि (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            },
+            {
+              "column_no": 8,
+              "label": "योग"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "प्राप्त धनराशि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(1)",
+              "item": "भवनों का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(2)",
+              "item": "सड़कों का निर्माण",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "कच्ची सड़क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "खड़ंजा",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "लेपन स्तर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(3)",
+              "item": "भवनों का रखरखाव",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "पंचायत भवन मरम्मत",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "स्कूल भवन मरम्मत / आपरेशन कार्यालय सहित",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "सामुदायिक भवन मरम्मत",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(4)",
+              "item": "सड़कों का रखरखाव / मरम्मत",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "कच्ची सड़क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "खड़ंजा",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "लेपन स्तर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "नाली मरम्मत",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "पुलिया मरम्मत",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(5)",
+              "item": "प्राथमिक स्वास्थ्य केन्द्र का संचालन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(6)",
+              "item": "गौशालाओं का संचालन",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 23,
+      "printed_page_number": 22,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "10 – ग्राम पंचायत को राज्य वित्त आयोग की संस्तुतियों के आधार पर प्राप्त एवं उपयोग की धनराशि (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            },
+            {
+              "column_no": 8,
+              "label": "योग"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(7)",
+              "item": "स्ट्रीट लाइट / सोडियम लाइट",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(8)",
+              "item": "हैण्डपम्प मरम्मत",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(9)",
+              "item": "परिक्रमी निधि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(10)",
+              "item": "निर्मित परिसम्पत्तियों / योजनाओं के संचालन पर व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "गौशाला",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "सामुदायिक शौचालय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "पंचायत सहायक",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "पंचायत प्रतिनिधियों को मानदेय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "ग्राम सभा / ग्राम पंचायत की बैठकों पर व्यय",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "यात्रा भत्ता",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "",
+              "item": "योग (i से vi)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(11)",
+              "item": "अन्य व्यय (यदि कोई हो यथा मानदेय, बैठक भत्ता एवं यात्रा भत्ता आदि का विवरण भी दें)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "अवशेष (1–2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "मद 10 की निरन्तरता (मद 1 व 2 के उप-मद (1)–(6) पिछले पृष्ठ पर)"
+      ]
+    },
+    {
+      "pdf_page": 24,
+      "printed_page_number": 23,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "11 – ग्राम पंचायत को केन्द्रीय वित्त आयोग की संस्तुतियों के आधार पर प्राप्त एवं उपयोग की धनराशि (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            },
+            {
+              "column_no": 8,
+              "label": "योग"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "प्राप्त धनराशि",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "व्यय",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(1)",
+              "item": "भवनों का निर्माण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(2)",
+              "item": "सड़कों का निर्माण",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "कच्ची सड़क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "खड़ंजा",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "इन्टरलॉकिंग",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "सीसीरोड",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(3)",
+              "item": "भवनों का रखरखाव",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(4)",
+              "item": "सड़कों का रखरखाव / मरम्मत",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(5)",
+              "item": "पेय जलापूर्ति हेतु पुरानी जलापूर्ति का पुनर्वास",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(6)",
+              "item": "नवीन पेयजल योजना",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(7)",
+              "item": "पेयजल एवं स्वच्छता सुविधा",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(8)",
+              "item": "जलापूर्ति योजनाओं पर आवर्ति रूप से खर्च की गयी धनराशि की पुनर्पूर्ति",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(9)",
+              "item": "सीवरेज व्यवस्था",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(10)",
+              "item": "सालिड लिक्विड वेस्ट मैनेजमेंट",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(11)",
+              "item": "स्ट्रीट लाइट / सोडियम लाइट",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(12)",
+              "item": "मार्ग रखरखाव",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(13)",
+              "item": "अन्य नागरिक सुविधाओं का रखरखाव एवं अनुरक्षण",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग (2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "अवशेष (1–2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 25,
+      "printed_page_number": 24,
+      "form_title": "छठा राज्य वित्त आयोग, उत्तर प्रदेश — विवरण पत्र–ग्राम पंचायत",
+      "header_fields": [
+        {
+          "label": "जनपद का नाम",
+          "value": null
+        },
+        {
+          "label": "ग्राम पंचायत का नाम",
+          "value": null
+        }
+      ],
+      "section_title": "12 – ग्राम पंचायत में कर / करेत्तर राजस्व देयों के बकाये की स्थिति (रू० हजार में)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "क्रम सं०"
+            },
+            {
+              "column_no": 2,
+              "label": "मद"
+            },
+            {
+              "column_no": 3,
+              "label": "गतवर्ष के अन्त में कुल बकाया"
+            },
+            {
+              "column_no": 4,
+              "label": "वर्ष की नयी मांग"
+            },
+            {
+              "column_no": 5,
+              "label": "वर्ष की कुल मांग (3+4)"
+            },
+            {
+              "column_no": 6,
+              "label": "गतवर्ष के बकाये के विरूद्ध वसूली",
+              "group": "वर्ष के दौरान"
+            },
+            {
+              "column_no": 7,
+              "label": "वसूली का प्रतिशत",
+              "group": "वर्ष के दौरान"
+            },
+            {
+              "column_no": 8,
+              "label": "वर्ष की नयी मांग",
+              "group": "वर्ष के दौरान"
+            },
+            {
+              "column_no": 9,
+              "label": "नयी मांग के विरूद्ध वसूली",
+              "group": "वर्ष के दौरान"
+            },
+            {
+              "column_no": 10,
+              "label": "वसूली का प्रतिशत",
+              "group": "वर्ष के दौरान"
+            },
+            {
+              "column_no": 11,
+              "label": "बट्टेखाते में डाली गयी धनराशि",
+              "group": "वर्ष के दौरान"
+            },
+            {
+              "column_no": 12,
+              "label": "कुल वसूली (6+9)",
+              "group": "वर्ष के दौरान"
+            },
+            {
+              "column_no": 13,
+              "label": "कुल मांग में कुल वसूली का प्रतिशत"
+            },
+            {
+              "column_no": 14,
+              "label": "वर्ष के अन्त में कुल बकाया धनराशि"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "वर्ष 2020-21",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "कर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "फीस",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "वर्ष 2024-25",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "कर",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "फीस",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "शुल्क",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "योग",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "स्तम्भ 6 से 12 के ऊपर 'वर्ष के दौरान' शीर्षक छपा है"
+      ]
+    }
+  ]
+}

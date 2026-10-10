@@ -1,0 +1,6698 @@
+{
+  "document": {
+    "document_title": "Statement Form – Gram Panchayat, Sixth State Finance Commission (Panchayati Raj and Local Bodies), Uttar Pradesh",
+    "language": "English (translated from Hindi)",
+    "total_pdf_pages": 25,
+    "extraction_note": "This is a blank form; all 'values' are null because no data is filled in the scan. Only visible handwritten marks are recorded separately. Where text was hard to read it is marked '(text unclear)'."
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page_number": null,
+      "header_fields": [],
+      "section_title": "Statement Form – Gram Panchayat",
+      "tables": [
+        {
+          "type": "cover_text",
+          "lines": [
+            "Statement Form – Gram Panchayat",
+            "Sixth State Finance Commission",
+            "(Panchayati Raj and Local Bodies)",
+            "Uttar Pradesh"
+          ],
+          "emblem": "State emblem/seal printed in the centre"
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "Handwritten: appears to read '(3) village' and 'P.R.D' (unclear)"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "printed_page_number": 1,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        },
+        {
+          "label": "Name of the Kshetra Panchayat in which the referred Gram Panchayat is situated",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Pradhan",
+          "value": null
+        },
+        {
+          "label": "Number of elected members of the Gram Panchayat",
+          "value": null
+        },
+        {
+          "label": "Number of women members",
+          "value": null
+        }
+      ],
+      "section_title": "General information regarding the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Information"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Population of the Panchayat as per 2011 Census",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Total population",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Female",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Male",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Scheduled Caste",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Female",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Male",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Scheduled Tribe",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Female",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Male",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Other Backward Classes (as per 'renik' survey — reading uncertain)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Female",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Male",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "A tick-like mark on the 'Name of Gram Pradhan' row",
+        "A slanted line/mark on the 'iii Total' row under (क) Total population"
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "printed_page_number": 2,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "General information regarding the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Information"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Number of revenue villages in the Panchayat (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Inhabited",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Uninhabited",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "Year of formation of the Panchayat",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "Number of territorial constituencies/wards in the Panchayat (as on 31 March 2025)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "Year of the last reorganisation of the Panchayat's boundaries",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "6",
+              "item": "Land/area of the Panchayat (in hectares/sq. km) (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Total area",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Area of cultivable land",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Area under habitation",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "7",
+              "item": "Number of families (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Total number of families",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Of which Scheduled Caste",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Of which Scheduled Tribe",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Of which Backward Class",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Of which General Category",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        },
+        {
+          "table_note": "For rows 7(ख) and 7(ग) the printed form shows two year-columns instead of a single 'Information' column",
+          "columns": [
+            {
+              "column_no": 3,
+              "label": "Year 2020–21"
+            },
+            {
+              "column_no": 4,
+              "label": "Year 2024–25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Number of families under Eligible Household + Antyodaya scheme",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Of which Scheduled Caste",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Of which Scheduled Tribe",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Of which Backward Class",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Of which General Category",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Population living under Eligible Household + Antyodaya scheme",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Of which Scheduled Caste",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Of which Scheduled Tribe",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Of which Backward Class",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Of which General Category",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            }
+          ]
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "Tick-like marks near 6(क) Total area and next to 6(ख)/6(ग)"
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "printed_page_number": 3,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "General information regarding the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Information"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "8",
+              "item": "Number of buildings in the Gram Panchayat (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Non-residential buildings",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Panchayat Bhawan / Gram Panchayat Secretariat",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Community building",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Buildings owned by the Panchayat",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Resource Recovery Centre",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Annapurna Bhawan (text unclear)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Baraat Ghar (marriage hall)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "9",
+              "item": "Economic profile of the Panchayat (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Total number of shops in the Panchayat area",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Permanent",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Temporary",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Whether a haat/market is held; if yes",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Daily / twice a week",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Weekly",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Fortnightly",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Mobile towers installed by service providers",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "On private building/land",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "On building/land owned by the Panchayat",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Farm houses / banquet halls established in the Gram Panchayat area (number)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "printed_page_number": 4,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "General information regarding the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Information"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "10",
+              "item": "Basic services provided by the Panchayat (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Drinking water supply",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Pipeline (number)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Handpump (number)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Street lighting arrangement (number)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Ordinary electrified pole",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Solar-energy operated pole",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "11",
+              "item": "Education infrastructure (number) (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Primary school",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Government",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Private",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Junior high school",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Government",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Private",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "High school",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Government",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Private",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Intermediate",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Government",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Private",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ङ)",
+              "item": "Graduate / Post-graduate college",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Government",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Private",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(च)",
+              "item": "Established by the private sector in the Panchayat area",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Medical college (number)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Nursing school (number)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Engineering / technical school / institute (number)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Other (specify)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "printed_page_number": 5,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "General information regarding the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Information"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "12",
+              "item": "Medical and health infrastructure (number) (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "ANM centre",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Primary health centre",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Community health centre",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Private hospital",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "13",
+              "item": "Animal husbandry and other development infrastructure (number) (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Veterinary hospital",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Animal husbandry centre",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Para livestock personnel",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "14",
+              "item": "Roads and transport (km) (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Unpaved (kachcha) road",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Kharanja / precast cemented interlocking tiles",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "CC road",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Paved road (tar road)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "15",
+              "item": "Industries established by government/non-government sector within the Panchayat (number) (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Micro enterprises (investment up to ₹1 crore and turnover within ₹10 crore)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Small enterprises (investment up to ₹10 crore and turnover within ₹50 crore)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Medium enterprises (investment up to ₹50 crore and turnover within ₹250 crore)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "16",
+              "item": "Sanitation and cleanliness (number) (as on 31 March 2025)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Public toilet",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Women's toilet complex",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "printed_page_number": 6,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "General information regarding the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Information"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "17",
+              "item": "Audit status of the Panchayat — if yes, put a tick (✓) against it, or mark 'no'",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "Audit done for which years",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "2020-21",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "2021-22",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "2022-23",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "2023-24",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "2024-25",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "Compliance / disposal done for which years",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "2020-21",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "2021-22",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "2022-23",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "2023-24",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "2024-25",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "Audit certificate issued by the Chief Audit Officer for which years",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "2020-21",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "2021-22",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "2022-23",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "2023-24",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "2024-25",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "Year"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "Year"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "Year"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "Year"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "Year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "18",
+              "item": "Loan taken by the Panchayat and loan repayment (₹ thousand)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "Total loan amount",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "Loan repayment amount",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "Balance loan repayment amount",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "The heading 'General information regarding the Gram Panchayat' is printed on this page"
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "printed_page_number": 7,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "2 – General information on taxes/charges/fees being levied by the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Rate applicable in year 2020–21"
+            },
+            {
+              "column_no": 4,
+              "label": "Year of last fixation of rates"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Taxes",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Tax on vehicles other than motor/mechanically-driven vehicles",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Advertisement tax",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Entertainment tax (cinema, theatre etc.)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Tax on land revenue payable (in percent)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Tax on cleaning of private toilets/drains (per family – ₹)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Tax on cleaning of roads, lighting and sanitation (per dwelling – ₹)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "Other taxes (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Charges",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Education charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Medical charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Fair and exhibition charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Charges per dwelling for drinking-water supply (₹)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Charges for water supply for irrigation by small irrigation project (per hectare – ₹)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Registry charges per animal for animals sold in haats/markets and land owned by the Gram Panchayat (₹)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "Tehbazari",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "Other charges (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Fees (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Others (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "printed_page_number": 8,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "3 – Income of the Gram Panchayat in past years (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "Year"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "Year"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "Year"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "Year"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "Year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Income of the Panchayat from its own sources",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Tax revenue",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Tax on vehicles other than motor/mechanically-driven vehicles",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Advertisement tax",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Entertainment tax (cinema, theatre etc.)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Tax on land revenue payable (in percent)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Tax on cleaning of private toilets/drains (per family – ₹)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Tax on cleaning of roads, lighting and sanitation (per dwelling – ₹)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "Other taxes (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (1)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Non-tax revenue (charges and fees)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Mentioned in the Act",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Education charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Medical charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Fair and exhibition charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Charges on water supply for drinking water",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Charges on water supply for irrigation by small irrigation project",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Registry charges per animal for animals sold in haats/markets and land owned by the Panchayat",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "Tehbazari",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "Disposal of dead animal carcasses",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ix",
+              "item": "Rent of haat-bazaar and shops",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "handwritten_marks_visible_in_scan": [
+        "Handwritten 'Tax Revenue' (unclear) with a line near the 'Tax revenue' row",
+        "Handwritten 'Non-tax Revenue' near the 'Total (1)' / Non-tax revenue row"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "printed_page_number": 9,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "3 – Income of the Gram Panchayat in past years (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "Year"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "Year"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "Year"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "Year"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "Year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 2,
+              "serial_no": "x",
+              "item": "Income from property",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 3,
+              "serial_no": "(क)",
+              "item": "Rent / lease",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 3,
+              "serial_no": "(ख)",
+              "item": "Sale",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xi",
+              "item": "Income from agriculture and forestry (nursery)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xii",
+              "item": "Interest on investment",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiii",
+              "item": "Awards",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiv",
+              "item": "Interest received from District Fund",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xv",
+              "item": "Agriculture and technical (text unclear)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvi",
+              "item": "Rural public … and loan (text unclear)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvii",
+              "item": "Fish farming",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xviii",
+              "item": "Other charges (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (2 A)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Other sources of income suggested by the department",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Charges on construction of new houses",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Tax, charges or fees for buildings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Tax on borings, or charges for irrigating others' fields from a boring other than one's own",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Charges on businesses within the Gram Panchayat limits",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Charges on organising markets, haats, fairs and festivals",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Availability of drinking water at nominal rate for RO water (text partly unclear)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "Collecting rent by building shops on roadside land",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "Charges for pond leases in compliance with Revenue Code rules",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ix",
+              "item": "Imposition of charges on, and management of, public property",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "x",
+              "item": "Medicinal farming and income on vacant land of the Gram Panchayat",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "This page continues the table (item 2 – Non-tax revenue) from the previous page"
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "printed_page_number": 10,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "3 – Income of the Gram Panchayat in past years (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "Year"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "Year"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "Year"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "Year"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "Year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 2,
+              "serial_no": "xi",
+              "item": "Generating income from public use of open gym / park / community building etc.",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xii",
+              "item": "Collecting tax from heavy vehicles passing over Gram Panchayat roads",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiii",
+              "item": "Generating income by renting out barren Panchayat land",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xiv",
+              "item": "Facility charges on garbage/waste management",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xv",
+              "item": "Generating income from gaushala products",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvi",
+              "item": "Installing solar panels, supplying electricity and imposing charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xvii",
+              "item": "Minor forest produce charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xviii",
+              "item": "Charges or fees from Jan Seva Kendra",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xix",
+              "item": "Tax from library",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xx",
+              "item": "Tax from use of mines and quarries",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxi",
+              "item": "Tax from brick kilns",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxii",
+              "item": "Charges from fisheries",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxiii",
+              "item": "Charges from businesses of self-help groups",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxiv",
+              "item": "Tax for damage by individuals' animals to Gram Panchayat orchards, forests, trees and plants",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxv",
+              "item": "Auction of pond leases",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "xxvi",
+              "item": "Charges on Baraat Ghar",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (2 B)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (2 A+B)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Total (1+2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "Grants",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Grants received from State Government (excluding State Finance Commission)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "For development work schemes",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Others",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (A)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Grants received from Central Government (excluding Central Finance Commission)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "For development work schemes",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Others",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (B)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Grants received under the recommendations of the Central Finance Commission",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (C)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "Item 3 sub-items (A) to (C) are on this page; (D) is on the next page"
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "printed_page_number": 11,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "3 – Income of the Gram Panchayat in past years (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "Year"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "Year"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "Year"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "Year"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "Year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Grants received from national/international institutions",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "From international institutions",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "From national institutions (including CSR)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Matribhumi Yojana",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Others / from individuals",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (D)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total grants (A+B+C+D)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "Amount transferred under the recommendations of the State Finance Commission",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "Contribution received by Gram Panchayats from the Zila Panchayat",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "6",
+              "item": "Income from loans",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "7",
+              "item": "Interest on deposited amount",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "8",
+              "item": "Income from other sources, if any",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Grand total (1 to 8)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "printed_page_number": 12,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "4 – Expenditure of the Gram Panchayat in past years (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "Year"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "Year"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "Year"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "Year"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "Year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Revenue expenditure",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Establishment and office expenditure",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Expenditure on salaries, allowances etc. of officers/employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Office expenditure",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Audit fee",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Expenditure on suits/litigation",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Honorarium",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Meeting allowance",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vii",
+              "item": "Travel allowance",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "viii",
+              "item": "Other expenditure (others, if any)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (revenue expenditure)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Capital expenditure / expenditure on construction works",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(क)",
+              "item": "Building construction",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ख)",
+              "item": "Road construction",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ग)",
+              "item": "Construction of bridges/culverts",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(घ)",
+              "item": "Construction of drains",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ङ)",
+              "item": "Construction of embankments",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(च)",
+              "item": "Construction of parks",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(छ)",
+              "item": "Construction of public toilets",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ज)",
+              "item": "Construction/reconstruction of check dams",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(झ)",
+              "item": "Construction of ponds",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(ट)",
+              "item": "Other construction (give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (capital expenditure)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 14,
+      "printed_page_number": 13,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "4 – Expenditure of the Gram Panchayat in past years (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21",
+              "group": "Year"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22",
+              "group": "Year"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23",
+              "group": "Year"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24",
+              "group": "Year"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25",
+              "group": "Year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "Expenditure on maintenance of assets",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "On road maintenance",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "On building maintenance",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "Maintenance of motor vehicles / cycle-rickshaws etc.",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "4",
+              "item": "On maintenance of drains",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "5",
+              "item": "On maintenance of parks",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "6",
+              "item": "On maintenance of drinking-water facilities/handpumps",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "7",
+              "item": "On maintenance of bridges/culverts",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "8",
+              "item": "Other expenditure, if any",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (3)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "Expenditure on social services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "Medical and medicines",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "Education",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "3",
+              "item": "Water supply (including consumables and electricity)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "4",
+              "item": "Cleaning etc.",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "5",
+              "item": "Fair / exhibition",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "6",
+              "item": "Other expenditure, if any",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (4)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "Expenditure on items other than consumption (text partly unclear)",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "Expenditure against contribution received by Gram Panchayats from Zila Panchayat",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "Other expenditure, if any",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (5)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Grand total (1 to 5)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "Continuation of item 4 (items 1 and 2 are on the previous page)"
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "printed_page_number": 14,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "5 – Amount received and utilised by Gram Panchayats under various government schemes (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Income",
+              "group": "Year 2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "Expenditure",
+              "group": "Year 2020-21"
+            },
+            {
+              "column_no": 5,
+              "label": "Income",
+              "group": "Year 2021-22"
+            },
+            {
+              "column_no": 6,
+              "label": "Expenditure",
+              "group": "Year 2021-22"
+            },
+            {
+              "column_no": 7,
+              "label": "Income",
+              "group": "Year 2022-23"
+            },
+            {
+              "column_no": 8,
+              "label": "Expenditure",
+              "group": "Year 2022-23"
+            },
+            {
+              "column_no": 9,
+              "label": "Income",
+              "group": "Year 2023-24"
+            },
+            {
+              "column_no": 10,
+              "label": "Expenditure",
+              "group": "Year 2023-24"
+            },
+            {
+              "column_no": 11,
+              "label": "Income",
+              "group": "Year 2024-25"
+            },
+            {
+              "column_no": 12,
+              "label": "Expenditure",
+              "group": "Year 2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "MGNREGA",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Swarna Jayanti Gram Swarozgar Yojana",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "Pradhan Mantri Awas Yojana",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "Rural drinking water scheme",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "5",
+              "item": "Swachh Bharat Mission (Rural)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "6",
+              "item": "Mid-Day Meal scheme",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "7",
+              "item": "Old-age / destitute women / disability pension",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "8",
+              "item": "RGPSA (text unclear)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "9",
+              "item": "Development of cremation grounds",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "10",
+              "item": "Government share in Matribhumi Yojana",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "11",
+              "item": "Gaushala",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "12",
+              "item": "Others, if any",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Grand total (1 to 12)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "printed_page_number": "15 (not visibly printed; inferred from sequence)",
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "6 – Information on residential/non-residential buildings owned by the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "(1)",
+              "item": "Residential/non-residential buildings of the Panchayat",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "Residential",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Number of buildings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Expenditure on building maintenance (₹ lakh)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "Non-residential",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Number of buildings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Expenditure on building maintenance (₹ thousand)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(2)",
+              "item": "Information on roads and bridges of the Panchayat",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "1",
+              "item": "Road",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Length of roads (km)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Expenditure on road maintenance (₹ thousand)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "2",
+              "item": "Bridge",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Number of bridges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Expenditure on repair and maintenance of bridges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "Page number is not visible on this page; previous is 14 and next is 16, so it is 15 by sequence"
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "printed_page_number": 16,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "7 – Details of employees working in the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Number of posts sanctioned by government",
+              "group": "Year 2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "Employees working",
+              "group": "Year 2020-21"
+            },
+            {
+              "column_no": 5,
+              "label": "Expenditure on salary, allowances etc. (₹ lakh)",
+              "group": "Year 2020-21"
+            },
+            {
+              "column_no": 6,
+              "label": "Number of posts sanctioned by government",
+              "group": "Year 2021-22"
+            },
+            {
+              "column_no": 7,
+              "label": "Employees working",
+              "group": "Year 2021-22"
+            },
+            {
+              "column_no": 8,
+              "label": "Expenditure on salary, allowances etc. (₹ lakh)",
+              "group": "Year 2021-22"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Administrative services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class 1 and 2 officers",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Accounts services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "Revenue services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "Engineering services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Officers",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "क",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "printed_page_number": 17,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "7 – Details of employees working in the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Number of posts sanctioned by government",
+              "group": "Year 2022-23"
+            },
+            {
+              "column_no": 4,
+              "label": "Employees working",
+              "group": "Year 2022-23"
+            },
+            {
+              "column_no": 5,
+              "label": "Expenditure on salary, allowances etc. (₹ lakh)",
+              "group": "Year 2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "Number of posts sanctioned by government",
+              "group": "Year 2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "Employees working",
+              "group": "Year 2023-24"
+            },
+            {
+              "column_no": 8,
+              "label": "Expenditure on salary, allowances etc. (₹ lakh)",
+              "group": "Year 2023-24"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Administrative services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class 1 and 2 officers",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Accounts services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "Revenue services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "Engineering services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Officers",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "क",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "printed_page_number": 18,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "7 – Details of employees working in the Gram Panchayat",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Number of posts sanctioned by government",
+              "group": "Year 2024-25"
+            },
+            {
+              "column_no": 4,
+              "label": "Employees working",
+              "group": "Year 2024-25"
+            },
+            {
+              "column_no": 5,
+              "label": "Expenditure on salary, allowances etc. (₹ lakh)",
+              "group": "Year 2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Administrative services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class 1 and 2 officers",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Accounts services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "3",
+              "item": "Revenue services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "4",
+              "item": "Engineering services",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Officers",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Class III employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Class IV employees",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "क",
+              "item": "Contractual employees / daily wage",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "printed_page_number": 19,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "8 – Liabilities of the Gram Panchayat (including previous year's balance, as on 31 March 2025 – ₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Information"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "(1)",
+              "item": "Payable to Electricity Board",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(2)",
+              "item": "Payable to Jal Nigam",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(3)",
+              "item": "Building rent",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(4)",
+              "item": "Non-government loans",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(5)",
+              "item": "Liability for salary and allowances",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(6)",
+              "item": "Pension payable",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(7)",
+              "item": "Gratuity payable",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(8)",
+              "item": "Telephone charges payable",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(9)",
+              "item": "Pension contribution payable",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "(10)",
+              "item": "Others (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Total (1 to 10)",
+              "row_type": "total",
+              "values": {
+                "3": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "printed_page_number": 20,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "9 – Assets of the Gram Panchayat (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Number",
+              "group": "Year 2024-25"
+            },
+            {
+              "column_no": 4,
+              "label": "Value",
+              "group": "Year 2024-25"
+            },
+            {
+              "column_no": 5,
+              "label": "Expenditure on maintenance",
+              "group": "Year 2024-25"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Movable assets",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Loans given",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Deposits in bank and post office",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Capital investment",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iv",
+              "item": "Other movable assets (if any, give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (1)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Immovable assets",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Residential buildings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Non-residential buildings",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "क",
+              "item": "Office",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ख",
+              "item": "Hospital / dispensary building",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ग",
+              "item": "School building",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "घ",
+              "item": "Gaushala",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ङ",
+              "item": "Shops",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "च",
+              "item": "Other immovable assets, if any, give details",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Grand total (1 to 2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 22,
+      "printed_page_number": 21,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "10 – Amount received and utilised by the Gram Panchayat on the basis of State Finance Commission recommendations (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            },
+            {
+              "column_no": 8,
+              "label": "Total"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Amount received",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Expenditure",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(1)",
+              "item": "Construction of buildings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(2)",
+              "item": "Construction of roads",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Unpaved road",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Kharanja",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Coating layer",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(3)",
+              "item": "Maintenance of buildings",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Panchayat Bhawan repair",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "School building repair / including operation office",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Community building repair",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(4)",
+              "item": "Maintenance/repair of roads",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Unpaved road",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Kharanja",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Coating layer",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Drain repair",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Culvert repair",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(5)",
+              "item": "Operation of primary health centre",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(6)",
+              "item": "Operation of gaushalas",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 23,
+      "printed_page_number": 22,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "10 – Amount received and utilised by the Gram Panchayat on the basis of State Finance Commission recommendations (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            },
+            {
+              "column_no": 8,
+              "label": "Total"
+            }
+          ],
+          "rows": [
+            {
+              "level": 1,
+              "serial_no": "(7)",
+              "item": "Street light / sodium light",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(8)",
+              "item": "Handpump repair",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(9)",
+              "item": "Revolving fund",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(10)",
+              "item": "Expenditure on operation of created assets/schemes",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Gaushala",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Community toilet",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Panchayat Sahayak",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "Honorarium to Panchayat representatives",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "v",
+              "item": "Expenditure on Gram Sabha / Gram Panchayat meetings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "vi",
+              "item": "Travel allowance",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "",
+              "item": "Total (i to vi)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(11)",
+              "item": "Other expenditure (if any, such as honorarium, meeting allowance and travel allowance etc.; give details)",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Balance (1–2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "Continuation of item 10 (sub-items (1)–(6) of items 1 and 2 are on the previous page)"
+      ]
+    },
+    {
+      "pdf_page": 24,
+      "printed_page_number": 23,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "11 – Amount received and utilised by the Gram Panchayat on the basis of Central Finance Commission recommendations (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "2020-21"
+            },
+            {
+              "column_no": 4,
+              "label": "2021-22"
+            },
+            {
+              "column_no": 5,
+              "label": "2022-23"
+            },
+            {
+              "column_no": 6,
+              "label": "2023-24"
+            },
+            {
+              "column_no": 7,
+              "label": "2024-25"
+            },
+            {
+              "column_no": 8,
+              "label": "Total"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Amount received",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Expenditure",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "(1)",
+              "item": "Construction of buildings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(2)",
+              "item": "Construction of roads",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 2,
+              "serial_no": "i",
+              "item": "Unpaved road",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "ii",
+              "item": "Kharanja",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iii",
+              "item": "Interlocking",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 2,
+              "serial_no": "iv",
+              "item": "CC road",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(3)",
+              "item": "Maintenance of buildings",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(4)",
+              "item": "Maintenance/repair of roads",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(5)",
+              "item": "Rehabilitation of old water supply for drinking water supply",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(6)",
+              "item": "New drinking water scheme",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(7)",
+              "item": "Drinking water and sanitation facility",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(8)",
+              "item": "Reimbursement of amount spent on a recurring basis on water supply schemes",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(9)",
+              "item": "Sewerage system",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(10)",
+              "item": "Solid Liquid Waste Management",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(11)",
+              "item": "Street light / sodium light",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(12)",
+              "item": "Road maintenance",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "(13)",
+              "item": "Upkeep and maintenance of other civic amenities",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total (2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "",
+              "item": "Balance (1–2)",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf_page": 25,
+      "printed_page_number": 24,
+      "form_title": "Sixth State Finance Commission, Uttar Pradesh — Statement Form – Gram Panchayat",
+      "header_fields": [
+        {
+          "label": "Name of District",
+          "value": null
+        },
+        {
+          "label": "Name of Gram Panchayat",
+          "value": null
+        }
+      ],
+      "section_title": "12 – Status of arrears of tax/non-tax revenue dues in the Gram Panchayat (₹ thousand)",
+      "tables": [
+        {
+          "columns": [
+            {
+              "column_no": 1,
+              "label": "Sr. No."
+            },
+            {
+              "column_no": 2,
+              "label": "Item"
+            },
+            {
+              "column_no": 3,
+              "label": "Total arrears at the end of last year"
+            },
+            {
+              "column_no": 4,
+              "label": "New demand of the year"
+            },
+            {
+              "column_no": 5,
+              "label": "Total demand of the year (3+4)"
+            },
+            {
+              "column_no": 6,
+              "label": "Recovery against last year's arrears",
+              "group": "During the year"
+            },
+            {
+              "column_no": 7,
+              "label": "Percentage of recovery",
+              "group": "During the year"
+            },
+            {
+              "column_no": 8,
+              "label": "New demand of the year",
+              "group": "During the year"
+            },
+            {
+              "column_no": 9,
+              "label": "Recovery against new demand",
+              "group": "During the year"
+            },
+            {
+              "column_no": 10,
+              "label": "Percentage of recovery",
+              "group": "During the year"
+            },
+            {
+              "column_no": 11,
+              "label": "Amount written off",
+              "group": "During the year"
+            },
+            {
+              "column_no": 12,
+              "label": "Total recovery (6+9)",
+              "group": "During the year"
+            },
+            {
+              "column_no": 13,
+              "label": "Percentage of total recovery in total demand"
+            },
+            {
+              "column_no": 14,
+              "label": "Total outstanding amount at the end of the year"
+            }
+          ],
+          "rows": [
+            {
+              "level": 0,
+              "serial_no": "1",
+              "item": "Year 2020-21",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Tax",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Fee",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 0,
+              "serial_no": "2",
+              "item": "Year 2024-25",
+              "row_type": "heading",
+              "values": {}
+            },
+            {
+              "level": 1,
+              "serial_no": "i",
+              "item": "Tax",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "ii",
+              "item": "Fee",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "iii",
+              "item": "Charges",
+              "row_type": "data",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            },
+            {
+              "level": 1,
+              "serial_no": "",
+              "item": "Total",
+              "row_type": "total",
+              "values": {
+                "3": null,
+                "4": null,
+                "5": null,
+                "6": null,
+                "7": null,
+                "8": null,
+                "9": null,
+                "10": null,
+                "11": null,
+                "12": null,
+                "13": null,
+                "14": null
+              }
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "Columns 6 to 12 are printed under the group heading 'During the year'"
+      ]
+    }
+  ]
+}
