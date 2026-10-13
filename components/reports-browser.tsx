@@ -1,5 +1,6 @@
 "use client";
 import dynamic from "next/dynamic";
+import Image from "next/image";
 import { useState } from "react";
 import { ArrowUpRight, FileSpreadsheet } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -17,12 +18,23 @@ export function ReportsBrowser() {
 
   return (
     <section className="space-y-6">
-      <header className="space-y-2">
-        <p className="text-xs font-bold uppercase tracking-[0.18em] text-orange-700">Source documents</p>
-        <h1 className="text-3xl font-bold tracking-tight text-amber-950">Reports & forms</h1>
-        <p className="max-w-2xl text-sm leading-relaxed text-amber-900/65">
-          Browse the submitted local-body forms in one place. Open a report to filter pages, switch language, and export tables.
-        </p>
+      <header className="overflow-hidden rounded-[26px] border border-white/80 bg-[#fffaf0] shadow-clay-card sm:grid sm:grid-cols-[minmax(0,1fr)_minmax(280px,0.8fr)]">
+        <div className="flex flex-col justify-center p-5 sm:p-7">
+          <p className="text-xs font-bold uppercase tracking-[0.18em] text-orange-700">Source documents</p>
+          <h1 className="mt-2 text-3xl font-bold tracking-tight text-amber-950">Reports & forms</h1>
+          <p className="mt-2 max-w-2xl text-sm leading-relaxed text-amber-900/65">
+            Browse the submitted local-body forms in one place. Open a report to filter pages, switch language, and export tables.
+          </p>
+        </div>
+        <div className="relative h-40 sm:h-full sm:min-h-[220px]">
+          <Image
+            src="/images/reports-overview.png"
+            alt="Illustrative local-government reports with charts and tables"
+            fill
+            sizes="(max-width: 640px) 100vw, 40vw"
+            className="object-cover object-center"
+          />
+        </div>
       </header>
       <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-4">
         {REPORTS.map((report) => (

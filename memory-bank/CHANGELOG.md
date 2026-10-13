@@ -9,6 +9,11 @@
 - Aligned the GitHub repository description and homepage link with the public dashboard.
 - Standardized claymorphism card and button elevation with clearer hover and pressed states.
 
+# Dashboard imagery
+- Added the supplied Uttar Pradesh landscape illustration to the State factsheet hero, a rural community meeting image to the Rural quick explorer, and a view-aware panel for rural infrastructure or urban local services.
+- Added report artwork to the Reports introduction and a map-search illustration to the Quick Explorer’s no-district-selected state.
+- Kept hero text legible, used responsive optimized image rendering, and labeled contextual scenes as illustrative rather than reported data.
+
 # Factsheet formats catalog
 - Consolidated per-level format preview pages into a single `/formats` catalog with a View format dialog for each hierarchy.
 - Dialog previews KPIs, grouped indicators, reporting periods, units, source references, and data-quality checks; State and District support Rural/Urban views.

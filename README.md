@@ -45,5 +45,6 @@ npm run build
 - `components/` — shared UI, factsheets, charts, map, and report dialog.
 - `lib/` — location, factsheet, and report data helpers.
 - `data/reports/` — normalized Hindi and English source forms.
+- `public/images/` — dashboard, location-exploration, local-services, and report imagery.
 - `memory-bank/` — product, technical, design, and module documentation.
 - `AGENT.md` — repository-specific contribution guidance for coding agents.

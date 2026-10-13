@@ -9,6 +9,7 @@ Current direction: warm, tactile claymorphism with a calm editorial hierarchy. T
 - KPI tiles: quiet warm-tinted surfaces and small clay-like orange/yellow markers, avoiding a different bright gradient on every tile.
 - Charts: interactive Recharts panels use orange/yellow series and disclose that displayed sample values are illustrative, not official finance data.
 - Navigation: warm dark-brown header/footer, tactile dropdown panels, and the quick-explorer selector with rural/urban mode labels.
+- Imagery: the State factsheet hero uses a wide Uttar Pradesh rural-to-urban illustration; Quick Explorer shows a map-search illustration before district selection and a village meeting photo after selection in Rural mode; a contextual panel switches between rural infrastructure and urban civic-service illustrations with the selected view. The Reports introduction uses report-and-chart artwork. Keep imagery responsive, locally served, and clearly illustrative rather than presenting it as reported data.
 - Reports: a single listing page; report forms open in a native accessible dialog with page filters, language switching, and downloads. The information note expands inline.
 - Factsheet formats: one catalog page with hierarchy-colored cards; format previews use dialogs with grouped indicators, KPIs, period labels, and data-quality checks.
 - Tables and category filters: rounded inset table surfaces, orange/amber headers, and matching active filter chips with clear source/download actions.

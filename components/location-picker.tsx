@@ -1,6 +1,7 @@
 "use client";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
+import Image from "next/image";
 import { ArrowRight, Compass, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { DISTRICTS } from "@/lib/districts";
@@ -28,14 +29,38 @@ export function LocationPicker({ district = "", view = "rural" }: { district?: s
     : (detail?.localBodies.filter((x) => x.typeSlug === b) ?? []);
   return (
     <div className="rounded-[28px] border border-white/80 bg-gradient-to-br from-[#fffdf8] via-[#fbf1df] to-[#f7e5c4] p-5 shadow-clay-card">
-      <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+      <div className="mb-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em] text-orange-800"><Compass className="h-3.5 w-3.5" />Quick explorer</p>
           <h2 className="mt-1 text-xl font-bold tracking-tight text-amber-950">Drill into the state hierarchy</h2>
         </div>
-        <div className="inline-flex items-center gap-2 rounded-full border border-white/80 bg-[#fff8e8] px-3 py-1.5 text-xs font-semibold text-orange-900 shadow-clay-soft">
-          <MapPin className="h-3.5 w-3.5" />
-          {view === "rural" ? "Rural mode" : "Urban mode"}
+        <div className="flex items-center justify-between gap-3">
+          <div className="inline-flex items-center gap-2 rounded-full border border-white/80 bg-[#fff8e8] px-3 py-1.5 text-xs font-semibold text-orange-900 shadow-clay-soft">
+            <MapPin className="h-3.5 w-3.5" />
+            {view === "rural" ? "Rural mode" : "Urban mode"}
+          </div>
+          {view === "rural" && d && (
+            <div className="relative h-20 w-36 shrink-0 overflow-hidden rounded-xl border border-white/80 shadow-clay-soft">
+              <Image
+                src="/images/rural-panchayat-meeting.png"
+                alt="Community members meeting at a village panchayat building"
+                fill
+                sizes="144px"
+                className="object-cover object-[center_58%]"
+              />
+            </div>
+          )}
+          {!d && (
+            <div className="relative h-20 w-28 shrink-0 sm:h-24 sm:w-36">
+              <Image
+                src="/images/location-discovery.png"
+                alt="Illustration of a map and magnifying glass for exploring locations"
+                fill
+                sizes="(max-width: 640px) 112px, 144px"
+                className="object-contain"
+              />
+            </div>
+          )}
         </div>
       </div>
       <div className="grid gap-3 md:grid-cols-4">

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Building2, ChevronRight, Sparkles, TreePine } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -13,15 +14,29 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
   const { kpis, tables } = resolve(level, view, counts);
   const scope = [...crumbs.map((c) => c.label), title, level.views ? view : ""].join("-");
   const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
+  const isState = level.slug === "state";
   const sections = [...CATS.filter((c) => tables.some((t) => t.cat === c)).map((c) => ({ cat: c as string, node: <div className="space-y-4">{tables.filter((t) => t.cat === c).map((t) => <FactTable key={t.id} t={t} scope={scope} counts={counts} showSource={!hideSource} theme={palette} />)}</div> })), { cat: "Data quality", node: <Triangulation ids={level.checks} scope={scope} theme={palette} /> }];
   const tone = [palette.card, palette.card, palette.card, palette.card];
   return (
     <div className="space-y-6">
       <nav className="flex flex-wrap items-center gap-1 text-sm text-amber-900/55">{crumbs.map((c) => <span key={c.label} className="flex items-center gap-1">{c.href ? <Link href={c.href} className="transition hover:text-orange-700 hover:underline">{c.label}</Link> : c.label}<ChevronRight className="h-3 w-3" /></span>)}<span className="font-semibold text-amber-950">{title}</span></nav>
-      <div className={`overflow-hidden rounded-[30px] border border-white/65 bg-gradient-to-br ${palette.hero} p-6 text-white shadow-clay-feature ${palette.glow}`}>
-        <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
+      <div className={`relative overflow-hidden rounded-[30px] border border-white/65 bg-gradient-to-br ${palette.hero} p-6 ${isState ? "min-h-[230px] text-amber-950 sm:min-h-[260px] sm:p-8" : "text-white"} shadow-clay-feature ${palette.glow}`}>
+        {isState && (
+          <>
+            <Image
+              src="/images/uttar-pradesh-dashboard-hero.png"
+              alt=""
+              fill
+              priority
+              sizes="(max-width: 1280px) 100vw, 1280px"
+              className="object-cover object-[68%_center] sm:object-center"
+            />
+            <div aria-hidden="true" className="absolute inset-0 bg-gradient-to-r from-[#fff8e8]/95 via-[#fff8e8]/85 to-[#fff8e8]/10 sm:via-[#fff8e8]/75" />
+          </>
+        )}
+        <div className="relative z-10 flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
           <div className="flex items-start gap-4">
-            <div className="rounded-[20px] border border-white/35 bg-white/15 p-3 shadow-clay-soft"><LevelIcon k={level.icon} className={`h-8 w-8 ${palette.accent}`} /></div>
+            <div className={`rounded-[20px] border p-3 shadow-clay-soft ${isState ? "border-orange-900/10 bg-white/65" : "border-white/35 bg-white/15"}`}><LevelIcon k={level.icon} className={`h-8 w-8 ${isState ? "text-orange-700" : palette.accent}`} /></div>
             <div>
               <div className="mb-2 flex flex-wrap items-center gap-2">
                 <h1 className="text-2xl font-bold tracking-tight md:text-3xl">{title}</h1>
@@ -29,10 +44,11 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
                 {preview && <Badge variant="warn" className="border-white/20 bg-white/15 text-white ring-1 ring-white/20">Format preview</Badge>}
               </div>
               {level.blurb && <p className="max-w-2xl text-sm text-orange-50/90">{level.blurb}</p>}
+              {isState && <p className="mt-2 max-w-md text-sm leading-relaxed text-amber-950/75">Explore local-government factsheets across Uttar Pradesh, from rural communities to urban centres.</p>}
             </div>
           </div>
-          <div className="flex items-center gap-2 rounded-2xl border border-white/25 bg-white/15 px-3 py-2 text-sm text-white shadow-clay-soft">
-            <Sparkles className={`h-4 w-4 ${palette.accent}`} />
+          <div className={`flex items-center gap-2 rounded-2xl border px-3 py-2 text-sm shadow-clay-soft ${isState ? "border-orange-900/10 bg-white/65 text-amber-950" : "border-white/25 bg-white/15 text-white"}`}>
+            <Sparkles className={`h-4 w-4 ${isState ? "text-orange-700" : palette.accent}`} />
             <span>{view === "rural" ? "Rural lens" : "Urban lens"}</span>
           </div>
         </div>
