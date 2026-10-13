@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ChevronRight, Sparkles } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { FactTable } from "@/components/fact-table";
@@ -46,10 +46,6 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
               {level.blurb && <p className="max-w-2xl text-sm text-orange-50/90">{level.blurb}</p>}
               {isState && <p className="mt-2 max-w-md text-sm leading-relaxed text-amber-950/75">Explore local-government factsheets across Uttar Pradesh, from rural communities to urban centres.</p>}
             </div>
-          </div>
-          <div className={`flex items-center gap-2 rounded-2xl border px-3 py-2 text-sm shadow-clay-soft ${isState ? "border-orange-900/10 bg-white/65 text-amber-950" : "border-white/25 bg-white/15 text-white"}`}>
-            <Sparkles className={`h-4 w-4 ${isState ? "text-orange-700" : palette.accent}`} />
-            <span>{view === "rural" ? "Rural lens" : "Urban lens"}</span>
           </div>
         </div>
       </div>
