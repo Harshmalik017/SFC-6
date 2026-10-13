@@ -4,6 +4,11 @@
 - Applied the selected hierarchy palette to every factsheet KPI, section/table header, data-quality panel, and the Rural/Urban switch.
 - Improved format-preview dialog switch states and added hierarchy-colored table markers and accessible pressed states.
 
+# Project overview and surface depth
+- Expanded README with the dashboard purpose, key workflows, routes, data limitations, and local validation instructions.
+- Aligned the GitHub repository description and homepage link with the public dashboard.
+- Standardized claymorphism card and button elevation with clearer hover and pressed states.
+
 # Factsheet formats catalog
 - Consolidated per-level format preview pages into a single `/formats` catalog with a View format dialog for each hierarchy.
 - Dialog previews KPIs, grouped indicators, reporting periods, units, source references, and data-quality checks; State and District support Rural/Urban views.

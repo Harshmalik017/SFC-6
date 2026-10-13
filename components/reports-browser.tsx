@@ -26,9 +26,9 @@ export function ReportsBrowser() {
       </header>
       <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-4">
         {REPORTS.map((report) => (
-          <Card key={report.id} className="group flex h-full flex-col transition-transform duration-150 hover:-translate-y-1">
+          <Card key={report.id} className="group flex h-full flex-col transition-all duration-150 hover:-translate-y-1 hover:shadow-clay-card-hover">
             <CardHeader className="flex-1">
-              <div className="mb-3 flex h-12 w-12 items-center justify-center rounded-[18px] border border-white/80 bg-gradient-to-br from-orange-100 to-amber-200 text-orange-700 shadow-[4px_4px_9px_rgba(129,91,37,0.1),-4px_-4px_9px_rgba(255,255,255,0.8)]">
+              <div className="mb-3 flex h-12 w-12 items-center justify-center rounded-[18px] border border-white/80 bg-gradient-to-br from-orange-100 to-amber-200 text-orange-700 shadow-clay-soft">
                 <LevelIcon k={report.icon} className="h-6 w-6" />
               </div>
               <CardTitle>{report.label}</CardTitle>

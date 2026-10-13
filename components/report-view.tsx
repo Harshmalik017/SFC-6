@@ -27,8 +27,8 @@ export function ReportView({ id, onClose }: { id: string; onClose: () => void })
   const chip = (on: boolean) => cn(
     "rounded-full border px-3 py-1.5 text-xs font-medium transition",
     on
-      ? "border-orange-500/15 bg-gradient-to-br from-orange-600 to-amber-400 text-white shadow-[4px_4px_9px_rgba(154,79,10,0.18),inset_1px_1px_0_rgba(255,255,255,0.3)]"
-      : "border-white/80 bg-[#fffaf0] text-amber-900 shadow-[3px_3px_7px_rgba(129,91,37,0.08),-3px_-3px_7px_rgba(255,255,255,0.8)] hover:text-orange-800",
+      ? "border-orange-500/15 bg-gradient-to-br from-orange-600 to-amber-400 text-white shadow-clay-button"
+      : "border-white/80 bg-[#fffaf0] text-amber-900 shadow-clay-soft hover:text-orange-800",
   );
 
   if (!selectedReport || !report) return null;
@@ -44,7 +44,7 @@ export function ReportView({ id, onClose }: { id: string; onClose: () => void })
       onClick={(event) => {
         if (event.target === event.currentTarget) onClose();
       }}
-      className="fixed inset-0 m-auto max-h-[92dvh] w-[min(96vw,1280px)] max-w-none overflow-hidden rounded-[28px] border border-white/80 bg-[#f7f0e4] p-0 text-amber-950 shadow-[12px_14px_32px_rgba(64,28,10,0.32),inset_1px_1px_0_rgba(255,255,255,0.8)] backdrop:bg-amber-950/50"
+      className="fixed inset-0 m-auto max-h-[92dvh] w-[min(96vw,1280px)] max-w-none overflow-hidden rounded-[28px] border border-white/80 bg-[#f7f0e4] p-0 text-amber-950 shadow-clay-dialog backdrop:bg-amber-950/50"
     >
       <div className="sticky top-0 z-10 flex flex-wrap items-center justify-between gap-3 border-b border-amber-200/80 bg-gradient-to-r from-orange-100 via-amber-50 to-yellow-100 px-5 py-4">
         <div className="min-w-0">

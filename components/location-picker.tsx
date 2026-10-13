@@ -27,13 +27,13 @@ export function LocationPicker({ district = "", view = "rural" }: { district?: s
     ? (detail?.blocks.find((x) => x.slug === b)?.gps ?? [])
     : (detail?.localBodies.filter((x) => x.typeSlug === b) ?? []);
   return (
-    <div className="rounded-[28px] border border-white/80 bg-gradient-to-br from-[#fffdf8] via-[#fbf1df] to-[#f7e5c4] p-5 shadow-[9px_10px_22px_rgba(129,91,37,0.12),-8px_-8px_20px_rgba(255,255,255,0.86),inset_1px_1px_0_rgba(255,255,255,0.9)]">
+    <div className="rounded-[28px] border border-white/80 bg-gradient-to-br from-[#fffdf8] via-[#fbf1df] to-[#f7e5c4] p-5 shadow-clay-card">
       <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em] text-orange-800"><Compass className="h-3.5 w-3.5" />Quick explorer</p>
           <h2 className="mt-1 text-xl font-bold tracking-tight text-amber-950">Drill into the state hierarchy</h2>
         </div>
-        <div className="inline-flex items-center gap-2 rounded-full border border-white/80 bg-[#fff8e8] px-3 py-1.5 text-xs font-semibold text-orange-900 shadow-[3px_3px_7px_rgba(129,91,37,0.09),-3px_-3px_7px_rgba(255,255,255,0.8)]">
+        <div className="inline-flex items-center gap-2 rounded-full border border-white/80 bg-[#fff8e8] px-3 py-1.5 text-xs font-semibold text-orange-900 shadow-clay-soft">
           <MapPin className="h-3.5 w-3.5" />
           {view === "rural" ? "Rural mode" : "Urban mode"}
         </div>

@@ -40,7 +40,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
       onClick={(event) => {
         if (event.target === event.currentTarget) onClose();
       }}
-      className="fixed inset-0 m-auto max-h-[92dvh] w-[min(96vw,1120px)] max-w-none overflow-hidden rounded-[28px] border border-white/80 bg-[#f7f0e4] p-0 text-amber-950 shadow-[12px_14px_32px_rgba(64,28,10,0.32),inset_1px_1px_0_rgba(255,255,255,0.8)] backdrop:bg-amber-950/50"
+      className="fixed inset-0 m-auto max-h-[92dvh] w-[min(96vw,1120px)] max-w-none overflow-hidden rounded-[28px] border border-white/80 bg-[#f7f0e4] p-0 text-amber-950 shadow-clay-dialog backdrop:bg-amber-950/50"
     >
       <header className={`sticky top-0 z-10 flex flex-wrap items-center justify-between gap-3 border-b border-amber-200/80 bg-gradient-to-r ${theme.card} px-5 py-4`}>
         <div className="flex min-w-0 items-center gap-3">
@@ -60,7 +60,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
                 <button
                   key={item}
                   aria-pressed={view === item}
-                  className={`flex items-center gap-1.5 rounded-xl px-3 py-1.5 text-xs font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-orange-500/50 ${view === item ? `bg-gradient-to-br ${theme.hero} text-white shadow-[3px_3px_7px_rgba(129,91,37,0.16),inset_1px_1px_0_rgba(255,255,255,0.3)]` : "text-amber-900/65 hover:bg-white/70 hover:text-amber-950"}`}
+                  className={`flex items-center gap-1.5 rounded-xl px-3 py-1.5 text-xs font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-orange-500/50 ${view === item ? `bg-gradient-to-br ${theme.hero} text-white shadow-clay-button` : "text-amber-900/65 hover:bg-white/70 hover:text-amber-950"}`}
                   onClick={() => setView(item)}
                 >
                   {item === "rural" ? <TreePine className="h-3.5 w-3.5" aria-hidden="true" /> : <Building2 className="h-3.5 w-3.5" aria-hidden="true" />}
@@ -85,7 +85,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
 
         <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
           {dataset.kpis.map((kpi) => (
-            <div key={kpi.label} className={`rounded-2xl border border-white/80 bg-gradient-to-br ${theme.card} p-4 shadow-[4px_4px_10px_rgba(129,91,37,0.09),-4px_-4px_10px_rgba(255,255,255,0.8)]`}>
+            <div key={kpi.label} className={`rounded-2xl border border-white/80 bg-gradient-to-br ${theme.card} p-4 shadow-clay-soft`}>
               <p className="text-[10px] font-bold uppercase tracking-[0.1em] text-amber-900/60">Key indicator</p>
               <p className="mt-1 text-sm font-semibold text-amber-950">{kpi.label}</p>
               <p className="mt-3 text-lg font-bold text-amber-900/35">{kpi.value ?? "—"}</p>
@@ -99,7 +99,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
               <h3 className={`border-b border-amber-200/80 pb-2 text-base font-bold ${theme.accent}`}>{category}</h3>
               <div className="grid gap-3 lg:grid-cols-2">
                 {tables.filter((table) => table.cat === category).map((table) => (
-                  <article key={table.id} className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-[4px_4px_10px_rgba(129,91,37,0.08),-4px_-4px_10px_rgba(255,255,255,0.78)]">
+                  <article key={table.id} className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
                     <div className={`mb-3 h-1 rounded-full bg-gradient-to-r ${theme.hero}`} />
                     <div className="flex items-start justify-between gap-3">
                       <div>
@@ -129,7 +129,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
               </div>
             </section>
           ))}
-          <section className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-[4px_4px_10px_rgba(129,91,37,0.08),-4px_-4px_10px_rgba(255,255,255,0.78)]">
+          <section className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
             <h3 className={`text-sm font-bold ${theme.accent}`}>Data quality checks</h3>
             <p className="mt-1 text-xs text-amber-900/60">Checks are defined for this factsheet and will run once department data is loaded.</p>
             <div className="mt-3 flex flex-wrap gap-2">
@@ -168,9 +168,9 @@ export function FactsheetFormatsBrowser() {
           const theme = level.theme;
 
           return (
-            <Card key={level.slug} className="group flex h-full flex-col transition-transform duration-150 hover:-translate-y-1">
+            <Card key={level.slug} className="group flex h-full flex-col transition-all duration-150 hover:-translate-y-1 hover:shadow-clay-card-hover">
               <CardHeader className="flex-1">
-                <div className={`mb-3 flex h-12 w-12 items-center justify-center rounded-[18px] border border-white/80 bg-gradient-to-br ${theme?.hero ?? "from-orange-600 to-amber-400"} text-white shadow-[4px_4px_9px_rgba(129,91,37,0.13),-4px_-4px_9px_rgba(255,255,255,0.8)]`}>
+                <div className={`mb-3 flex h-12 w-12 items-center justify-center rounded-[18px] border border-white/80 bg-gradient-to-br ${theme?.hero ?? "from-orange-600 to-amber-400"} text-white shadow-clay-soft`}>
                   <LevelIcon k={level.icon} className="h-6 w-6" />
                 </div>
                 <div className="flex items-center gap-2">
