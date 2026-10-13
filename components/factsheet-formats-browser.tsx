@@ -1,10 +1,11 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
-import { ArrowUpRight, BookOpen, Building2, Check, TreePine, X } from "lucide-react";
+import { ArrowUpRight, BookOpen, Building2, Check, Compass, TreePine, X } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { LevelIcon } from "@/components/level-icon";
+import { StateMap } from "@/components/state-map";
 import { CATS, LEVELS, type Level, type View } from "@/lib/factsheet";
 
 function FormatDialog({ level, onClose }: { level: Level; onClose: () => void }) {
@@ -20,6 +21,8 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
     glow: "shadow-orange-500/15",
   };
   const tables = dataset.tables;
+  const isHome = level.slug === "state";
+  const isDistrict = level.slug === "district";
 
   useEffect(() => {
     const dialog = dialogRef.current;
@@ -55,7 +58,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
           </div>
         </div>
         <div className="flex items-center gap-2">
-          {level.views && (
+          {level.views && !isHome && (
             <div className="flex rounded-2xl border border-white/80 bg-[#fffaf0] p-1 shadow-[inset_3px_3px_7px_rgba(129,91,37,0.08),inset_-3px_-3px_7px_rgba(255,255,255,0.8)]" role="group" aria-label="Factsheet view">
               {(["rural", "urban"] as View[]).map((item) => (
                 <button
@@ -79,12 +82,53 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
       <div className="max-h-[calc(92dvh-88px)] space-y-5 overflow-y-auto p-5">
         <div className="flex flex-wrap items-center gap-2">
           <Badge variant="warn">Structure preview · Department data not loaded</Badge>
-          <Badge variant="secondary">{tables.length} tables</Badge>
-          <Badge variant="secondary">{tables.reduce((total, table) => total + table.rows.length, 0)} indicators</Badge>
+          {isHome ? (
+            <>
+              <Badge variant="secondary">Quick explorer</Badge>
+              <Badge variant="secondary">District map</Badge>
+            </>
+          ) : (
+            <>
+              <Badge variant="secondary">{tables.length} tables</Badge>
+              <Badge variant="secondary">{tables.reduce((total, table) => total + table.rows.length, 0)} indicators</Badge>
+            </>
+          )}
           {level.views && <Badge className={theme.pill}>{view === "rural" ? "Rural" : "Urban"} format</Badge>}
         </div>
 
         <div className="space-y-5">
+          {isHome ? (
+            <>
+              <section className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
+                <div className="flex flex-wrap items-center justify-between gap-3">
+                  <h3 className={`flex items-center gap-2 text-sm font-bold ${theme.heading}`}><Compass className="h-4 w-4" />Quick explorer</h3>
+                  <div className="flex rounded-xl border border-white/80 bg-[#f7f0e4] p-1" role="group" aria-label="Quick explorer area">
+                    {(["rural", "urban"] as View[]).map((area) => (
+                      <button key={area} type="button" aria-pressed={view === area} onClick={() => setView(area)} className={`flex items-center gap-1 rounded-lg px-2.5 py-1.5 text-xs font-semibold ${view === area ? `bg-gradient-to-br ${theme.hero} text-white shadow-clay-button` : "text-amber-900/65 hover:bg-white/70"}`}>
+                        {area === "rural" ? <TreePine className="h-3.5 w-3.5" aria-hidden="true" /> : <Building2 className="h-3.5 w-3.5" aria-hidden="true" />}
+                        {area === "rural" ? "Rural" : "Urban"}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+                <p className="mt-1 text-xs text-amber-900/60">Choose a district, select Rural or Urban, then drill down to a local body.</p>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {["District", view === "rural" ? "Rural" : "Urban", view === "rural" ? "Kshetra Panchayat" : "Body type", view === "rural" ? "Gram Panchayat" : "Local body"].map((filter) => <Badge key={filter} variant="secondary">{filter}</Badge>)}
+                </div>
+              </section>
+              <Card>
+                <CardHeader><CardTitle>District map</CardTitle><CardDescription>Select a district to open its factsheet.</CardDescription></CardHeader>
+                <CardContent><StateMap /></CardContent>
+              </Card>
+            </>
+          ) : (
+          <>
+          {isDistrict && (
+            <section className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
+              <h3 className={`text-sm font-bold ${theme.heading}`}>District layout</h3>
+              <p className="mt-1 text-xs text-amber-900/60">The Rural/Urban switch stays in the header. No Quick explorer is shown; the selected view lists its blocks or urban local bodies before the indicator tables.</p>
+            </section>
+          )}
           {CATS.filter((category) => tables.some((table) => table.cat === category)).map((category) => (
             <section key={category} className="space-y-3">
               <h3 className={`border-b border-amber-200/80 pb-2 text-base font-bold ${theme.heading}`}>{category}</h3>
@@ -127,6 +171,8 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
               {level.checks.map((check) => <Badge key={check} variant="secondary">{check.toUpperCase()}</Badge>)}
             </div>
           </section>
+          </>
+          )}
         </div>
       </div>
     </dialog>
@@ -143,7 +189,7 @@ export function FactsheetFormatsBrowser() {
         <p className="text-xs font-bold uppercase tracking-[0.18em] text-orange-700">Indicator catalog</p>
         <h1 className="text-3xl font-bold tracking-tight text-amber-950">Factsheet formats</h1>
         <p className="max-w-2xl text-sm leading-relaxed text-amber-900/65">
-          Compare the indicators and table structure used at each local-government level. Open a format to preview its KPIs, sections, periods, and data-quality checks.
+          Explore the current Home, District, and local-body factsheet layouts. Open a format to preview its navigation, indicator tables, periods, and data-quality checks.
         </p>
       </header>
       <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
@@ -168,11 +214,24 @@ export function FactsheetFormatsBrowser() {
                   <CardTitle>{level.label}</CardTitle>
                   <Badge className={theme?.pill}>{level.views ? "Rural + Urban" : "Rural"}</Badge>
                 </div>
-                <CardDescription>{level.blurb || "State-wide overview of local-body factsheet indicators."}</CardDescription>
-                <div className="flex flex-wrap gap-2 pt-2">
-                  <Badge variant="secondary">{tableCount} tables per view</Badge>
-                  <Badge variant="secondary">{indicatorCount} indicators</Badge>
-                </div>
+                <CardDescription>
+                  {level.slug === "state"
+                    ? "Home: Quick explorer followed by the district map."
+                    : level.slug === "district"
+                      ? "District list with a Rural/Urban switch in the header and no Quick explorer."
+                      : level.blurb || "Local-body factsheet with category tables and data-quality checks."}
+                </CardDescription>
+                {level.slug === "state" ? (
+                  <div className="flex flex-wrap gap-2 pt-2">
+                    <Badge variant="secondary">Quick explorer</Badge>
+                    <Badge variant="secondary">District map</Badge>
+                  </div>
+                ) : (
+                  <div className="flex flex-wrap gap-2 pt-2">
+                    <Badge variant="secondary">{tableCount} tables per view</Badge>
+                    <Badge variant="secondary">{indicatorCount} indicators</Badge>
+                  </div>
+                )}
               </CardHeader>
               <div className="px-5 pb-5">
                 <Button variant="accent" className="w-full" onClick={() => setSelected(level.slug)}>
