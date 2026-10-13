@@ -1,2 +1,2 @@
-# Formats (/format/[level])
-Template of each factsheet with indicators, units and JSON source pages; reachable from the Factsheet formats menu.
+# Factsheet formats (/formats)
+Single-page catalog of State, District, Block, Gram Panchayat, and Urban Local Body factsheet structures. Each card opens a dialog preview with KPIs, categorized indicator tables, reporting periods, units, source-page references, and defined data-quality checks. State and District formats include Rural/Urban switches. Values remain marked as unavailable until department data is loaded.

@@ -1,4 +1,10 @@
 # CHANGELOG
+# Factsheet formats catalog
+- Consolidated per-level format preview pages into a single `/formats` catalog with a View format dialog for each hierarchy.
+- Dialog previews KPIs, grouped indicators, reporting periods, units, source references, and data-quality checks; State and District support Rural/Urban views.
+- Updated desktop/mobile navigation and removed the obsolete `/format/[level]` route.
+- Renamed the State Explorer navigation item to Home on desktop and mobile.
+
 # Project link and contributor guidance
 - Added the deployed dashboard URL to the README and set it as the canonical metadata base/Open Graph URL.
 - Expanded the README with setup, validation, project structure, report workflow, and demo-data disclosure.

@@ -8,6 +8,7 @@ Current direction: warm, tactile claymorphism with a calm editorial hierarchy. T
 - Charts: interactive Recharts panels use orange/yellow series and disclose that displayed sample values are illustrative, not official finance data.
 - Navigation: warm dark-brown header/footer, tactile dropdown panels, and the quick-explorer selector with rural/urban mode labels.
 - Reports: a single listing page; report forms open in a native accessible dialog with page filters, language switching, and downloads. The information note expands inline.
+- Factsheet formats: one catalog page with hierarchy-colored cards; format previews use dialogs with grouped indicators, KPIs, period labels, and data-quality checks.
 - Tables and category filters: rounded inset table surfaces, orange/amber headers, and matching active filter chips with clear source/download actions.
 - Icons: lucide (Landmark state, MapPinned district, LayoutGrid block, TreePine GP, Building2 urban, FileText/FileSpreadsheet/FileJson downloads).
 - Responsive: hamburger nav, 1→2→4 column grids, and card-first layout for dashboard reads; retain visible keyboard focus.

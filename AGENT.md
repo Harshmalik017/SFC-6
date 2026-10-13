@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This repository contains a Next.js 14 App Router dashboard for Uttar Pradesh's Sixth State Finance Commission. The single-page report browser is at `/reports`; factsheets cover State, District, Block, Gram Panchayat, and Urban Local Body levels.
+This repository contains a Next.js 14 App Router dashboard for Uttar Pradesh's Sixth State Finance Commission. The single-page report browser is at `/reports`, and the factsheet format catalog is at `/formats`; factsheets cover State, District, Block, Gram Panchayat, and Urban Local Body levels.
 
 ## Working conventions
 
