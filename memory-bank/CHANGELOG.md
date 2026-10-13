@@ -1,4 +1,9 @@
 # CHANGELOG
+# Project link and contributor guidance
+- Added the deployed dashboard URL to the README and set it as the canonical metadata base/Open Graph URL.
+- Expanded the README with setup, validation, project structure, report workflow, and demo-data disclosure.
+- Added root `AGENT.md` with repository conventions, memory-bank update expectations, and validation commands.
+
 # Latest reports and theme update
 - Consolidated report listing, page filtering, language switching, and exports into `/reports`; each form now opens in a dialog, and the information note expands inline.
 - Removed the redundant `/reports/[id]` and `/reports/information-note` pages; report data loads on demand when opening a form.
