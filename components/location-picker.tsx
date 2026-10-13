@@ -33,7 +33,6 @@ export function LocationPicker({ district = "", view = "rural" }: { district?: s
       <div className="mb-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em] text-orange-800"><Compass className="h-3.5 w-3.5" />Quick explorer</p>
-          <h2 className="mt-1 text-xl font-bold tracking-tight text-amber-950">Drill into the state hierarchy</h2>
         </div>
         <div className="flex items-center justify-end gap-3">
           {view === "rural" && d && (

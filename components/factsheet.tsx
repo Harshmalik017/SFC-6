@@ -10,7 +10,7 @@ import { LevelIcon } from "@/components/level-icon";
 import { CATS, resolve, type Level, type View } from "@/lib/factsheet";
 import type { Counts } from "@/lib/locations";
 export type Crumb = { label: string; href?: string };
-export function Factsheet({ level, title, crumbs, preview, view = "rural", counts = {}, hideSource = false, hideTitle = false, children }: { level: Level; title: string; crumbs: Crumb[]; preview?: boolean; view?: View; counts?: Counts; hideSource?: boolean; hideTitle?: boolean; children?: React.ReactNode }) {
+export function Factsheet({ level, title, crumbs, preview, view = "rural", counts = {}, hideSource = false, hideTitle = false, hideHeader = false, children }: { level: Level; title: string; crumbs: Crumb[]; preview?: boolean; view?: View; counts?: Counts; hideSource?: boolean; hideTitle?: boolean; hideHeader?: boolean; children?: React.ReactNode }) {
   const { tables } = resolve(level, view, counts);
   const scope = [...crumbs.map((c) => c.label), title, level.views ? view : ""].join("-");
   const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", heading: "text-orange-800", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
@@ -19,8 +19,8 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
   const sections = [...CATS.filter((c) => tables.some((t) => t.cat === c)).map((c) => ({ cat: c as string, node: <div className="space-y-4">{tables.filter((t) => t.cat === c).map((t) => <FactTable key={t.id} t={t} scope={scope} counts={counts} showSource={!hideSource} theme={palette} />)}</div> })), { cat: "Data quality", node: <Triangulation ids={level.checks} scope={scope} theme={palette} /> }];
   return (
     <div className="space-y-6">
-      <nav className="flex flex-wrap items-center gap-1 text-sm text-amber-900/55">{crumbs.map((c) => <span key={c.label} className="flex items-center gap-1">{c.href ? <Link href={c.href} className="transition hover:text-orange-700 hover:underline">{c.label}</Link> : c.label}<ChevronRight className="h-3 w-3" /></span>)}<span className="font-semibold text-amber-950">{title}</span></nav>
-      <div className={`relative overflow-hidden rounded-[30px] border border-white/65 bg-gradient-to-br ${palette.hero} p-6 ${isState ? "min-h-[230px] text-amber-950 sm:min-h-[260px] sm:p-8" : "text-white"} shadow-clay-feature ${palette.glow}`}>
+      {!hideHeader && <nav className="flex flex-wrap items-center gap-1 text-sm text-amber-900/55">{crumbs.map((c) => <span key={c.label} className="flex items-center gap-1">{c.href ? <Link href={c.href} className="transition hover:text-orange-700 hover:underline">{c.label}</Link> : c.label}<ChevronRight className="h-3 w-3" /></span>)}<span className="font-semibold text-amber-950">{title}</span></nav>}
+      {!hideHeader && <div className={`relative overflow-hidden rounded-[30px] border border-white/65 bg-gradient-to-br ${palette.hero} p-6 ${isState ? "min-h-[230px] text-amber-950 sm:min-h-[260px] sm:p-8" : "text-white"} shadow-clay-feature ${palette.glow}`}>
         {isState && (
           <>
             <Image
@@ -58,7 +58,7 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
             </div>
           )}
         </div>
-      </div>
+      </div>}
       {children}
       {!isState && <CatFilter key={view} sections={sections} theme={palette} />}
     </div>
