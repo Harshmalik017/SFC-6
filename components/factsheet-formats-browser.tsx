@@ -1,14 +1,17 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 import { ArrowUpRight, BookOpen, Building2, Check, Compass, TreePine, X } from "lucide-react";
+import Image from "next/image";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { LevelIcon } from "@/components/level-icon";
 import { StateMap } from "@/components/state-map";
 import { CATS, LEVELS, type Level, type View } from "@/lib/factsheet";
+import { BODY_TYPES } from "@/lib/location-types";
+import type { Counts } from "@/lib/locations";
 
-function FormatDialog({ level, onClose }: { level: Level; onClose: () => void }) {
+function FormatDialog({ level, locationCounts, onClose }: { level: Level; locationCounts: Counts; onClose: () => void }) {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const [view, setView] = useState<View>("rural");
   const dataset = level.views ? level.views[view] : level;
@@ -85,6 +88,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
           {isHome ? (
             <>
               <Badge variant="secondary">Quick explorer</Badge>
+              <Badge variant="secondary">7 count cards</Badge>
               <Badge variant="secondary">District map</Badge>
             </>
           ) : (
@@ -98,7 +102,15 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
 
         <div className="space-y-5">
           {isHome ? (
-            <>
+            <div className="relative isolate space-y-5 overflow-hidden rounded-2xl p-3">
+              <Image
+                src="/images/uttar-pradesh-dashboard-hero.png"
+                alt=""
+                fill
+                sizes="(max-width: 1120px) 96vw, 1120px"
+                className="absolute inset-0 -z-10 h-full w-full object-cover opacity-30"
+              />
+              <div aria-hidden="true" className="absolute inset-0 -z-10 bg-white/45" />
               <section className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
                 <div className="flex flex-wrap items-center justify-between gap-3">
                   <h3 className={`flex items-center gap-2 text-sm font-bold ${theme.heading}`}><Compass className="h-4 w-4" />Quick explorer</h3>
@@ -114,20 +126,48 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
                 <p className="mt-1 text-xs text-amber-900/60">Choose a district, select Rural or Urban, then drill down to a local body.</p>
                 <div className="mt-3 flex flex-wrap gap-2">
                   {["District", view === "rural" ? "Rural" : "Urban", view === "rural" ? "Kshetra Panchayat" : "Body type", view === "rural" ? "Gram Panchayat" : "Local body"].map((filter) => <Badge key={filter} variant="secondary">{filter}</Badge>)}
+                  <Badge variant="secondary">Open factsheet</Badge>
                 </div>
+              </section>
+              <section className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4" aria-label="Local government counts">
+                {[
+                  { label: "Districts", value: locationCounts.Districts },
+                  { label: "Kshetra Panchayats (blocks)", value: locationCounts["Kshetra Panchayats (blocks)"] },
+                  { label: "Gram Panchayats", value: locationCounts["Gram Panchayats"] },
+                  { label: "Urban local bodies", value: locationCounts["Urban local bodies (number)"] },
+                  { label: "Nagar Nigam", value: locationCounts["Nagar Nigam"] },
+                  { label: "Nagar Palika Parishad", value: locationCounts["Nagar Palika Parishad"] },
+                  { label: "Nagar Panchayat", value: locationCounts["Nagar Panchayat"] },
+                ].map(({ label, value }) => (
+                  <Card key={label} className="border-white/80 bg-gradient-to-br from-amber-300/25 via-orange-100/55 to-[#fffaf0]">
+                    <CardHeader className="p-4 pb-0"><CardDescription className="text-[10px] font-semibold uppercase tracking-[0.1em] text-amber-900/65">{label}</CardDescription></CardHeader>
+                    <CardContent className="p-4 pt-2"><p className="text-xl font-bold tracking-tight text-amber-950">{value ?? "—"}</p></CardContent>
+                  </Card>
+                ))}
               </section>
               <Card>
                 <CardHeader><CardTitle>District map</CardTitle><CardDescription>Select a district to open its factsheet.</CardDescription></CardHeader>
                 <CardContent><StateMap /></CardContent>
               </Card>
-            </>
+            </div>
           ) : (
           <>
           {isDistrict && (
-            <section className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
-              <h3 className={`text-sm font-bold ${theme.heading}`}>District layout</h3>
-              <p className="mt-1 text-xs text-amber-900/60">The Rural/Urban switch stays in the header. No Quick explorer is shown; the selected view lists its blocks or urban local bodies before the indicator tables.</p>
-            </section>
+            <Card>
+              <CardHeader>
+                <CardTitle>{view === "rural" ? "Blocks (Kshetra Panchayats)" : "Urban local bodies"}</CardTitle>
+                <CardDescription>
+                  {view === "rural"
+                    ? "District block links appear here before the factsheet sections."
+                    : "Local-body links are grouped by type before the factsheet sections."}
+                </CardDescription>
+              </CardHeader>
+              {view === "urban" && (
+                <CardContent className="flex flex-wrap gap-2">
+                  {BODY_TYPES.map((bodyType) => <Badge key={bodyType.slug} variant="secondary">{bodyType.name}</Badge>)}
+                </CardContent>
+              )}
+            </Card>
           )}
           {CATS.filter((category) => tables.some((table) => table.cat === category)).map((category) => (
             <section key={category} className="space-y-3">
@@ -179,7 +219,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
   );
 }
 
-export function FactsheetFormatsBrowser() {
+export function FactsheetFormatsBrowser({ locationCounts }: { locationCounts: Counts }) {
   const [selected, setSelected] = useState<string | null>(null);
   const selectedLevel = LEVELS.find((level) => level.slug === selected);
 
@@ -216,7 +256,7 @@ export function FactsheetFormatsBrowser() {
                 </div>
                 <CardDescription>
                   {level.slug === "state"
-                    ? "Home: Quick explorer followed by the district map."
+                    ? "Home: Quick explorer, seven local-government count cards, then the district map."
                     : level.slug === "district"
                       ? "District list with a Rural/Urban switch in the header and no Quick explorer."
                       : level.blurb || "Local-body factsheet with category tables and data-quality checks."}
@@ -224,6 +264,7 @@ export function FactsheetFormatsBrowser() {
                 {level.slug === "state" ? (
                   <div className="flex flex-wrap gap-2 pt-2">
                     <Badge variant="secondary">Quick explorer</Badge>
+                    <Badge variant="secondary">7 count cards</Badge>
                     <Badge variant="secondary">District map</Badge>
                   </div>
                 ) : (
@@ -244,7 +285,7 @@ export function FactsheetFormatsBrowser() {
           );
         })}
       </div>
-      {selectedLevel && <FormatDialog key={selectedLevel.slug} level={selectedLevel} onClose={() => setSelected(null)} />}
+      {selectedLevel && <FormatDialog key={selectedLevel.slug} level={selectedLevel} locationCounts={locationCounts} onClose={() => setSelected(null)} />}
     </section>
   );
 }
