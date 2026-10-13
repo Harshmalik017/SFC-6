@@ -4,6 +4,8 @@ Current direction: warm, tactile claymorphism with a calm editorial hierarchy. T
 - Palette: toasted brown navigation, orange/yellow primary gradient, amber focus states, warm cream page surfaces, and deep brown text.
 - Clay surfaces: raised cards use warm ambient shadows plus a fine white inset edge; inputs and data regions use softer inset shadows.
 - Factsheet identity: State = orange/yellow, District = rose/red, Block = emerald/lime, Gram Panchayat = sky/cyan, Urban Local Body = violet/fuchsia. These colors distinguish location hierarchy while the surrounding UI remains orange/yellow.
+- Tailwind scans `lib/` because hierarchy palettes are defined alongside the factsheet data model; preserve this content path when updating build configuration.
+- Factsheet hierarchy color must remain visible beyond the hero: KPI surfaces, category accents, table headers, data-quality panels, location icons, and selected Rural/Urban controls all use the active hierarchy palette.
 - KPI tiles: quiet warm-tinted surfaces and small clay-like orange/yellow markers, avoiding a different bright gradient on every tile.
 - Charts: interactive Recharts panels use orange/yellow series and disclose that displayed sample values are illustrative, not official finance data.
 - Navigation: warm dark-brown header/footer, tactile dropdown panels, and the quick-explorer selector with rural/urban mode labels.

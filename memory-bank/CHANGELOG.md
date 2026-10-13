@@ -1,4 +1,9 @@
 # CHANGELOG
+# Factsheet hierarchy color fix
+- Included `lib/` in Tailwind's content scan so palette utility classes defined by factsheet metadata are emitted in production CSS.
+- Applied the selected hierarchy palette to every factsheet KPI, section/table header, data-quality panel, and the Rural/Urban switch.
+- Improved format-preview dialog switch states and added hierarchy-colored table markers and accessible pressed states.
+
 # Factsheet formats catalog
 - Consolidated per-level format preview pages into a single `/formats` catalog with a View format dialog for each hierarchy.
 - Dialog previews KPIs, grouped indicators, reporting periods, units, source references, and data-quality checks; State and District support Rural/Urban views.

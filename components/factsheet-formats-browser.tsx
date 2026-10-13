@@ -59,10 +59,11 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
               {(["rural", "urban"] as View[]).map((item) => (
                 <button
                   key={item}
-                  className={`flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-semibold transition ${view === item ? `bg-gradient-to-br ${theme.hero} text-white shadow-sm` : "text-amber-900/65 hover:text-orange-800"}`}
+                  aria-pressed={view === item}
+                  className={`flex items-center gap-1.5 rounded-xl px-3 py-1.5 text-xs font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-orange-500/50 ${view === item ? `bg-gradient-to-br ${theme.hero} text-white shadow-[3px_3px_7px_rgba(129,91,37,0.16),inset_1px_1px_0_rgba(255,255,255,0.3)]` : "text-amber-900/65 hover:bg-white/70 hover:text-amber-950"}`}
                   onClick={() => setView(item)}
                 >
-                  {item === "rural" ? <TreePine className="h-3.5 w-3.5" /> : <Building2 className="h-3.5 w-3.5" />}
+                  {item === "rural" ? <TreePine className="h-3.5 w-3.5" aria-hidden="true" /> : <Building2 className="h-3.5 w-3.5" aria-hidden="true" />}
                   {item === "rural" ? "Rural" : "Urban"}
                 </button>
               ))}
@@ -99,6 +100,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
               <div className="grid gap-3 lg:grid-cols-2">
                 {tables.filter((table) => table.cat === category).map((table) => (
                   <article key={table.id} className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-[4px_4px_10px_rgba(129,91,37,0.08),-4px_-4px_10px_rgba(255,255,255,0.78)]">
+                    <div className={`mb-3 h-1 rounded-full bg-gradient-to-r ${theme.hero}`} />
                     <div className="flex items-start justify-between gap-3">
                       <div>
                         <h4 className="text-sm font-bold text-amber-950">{table.title}</h4>
