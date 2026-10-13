@@ -10,7 +10,7 @@ export default function Home({ searchParams }: { searchParams: { view?: string }
   const view = searchParams.view === "urban" ? "urban" : "rural";
 
   return (
-    <Factsheet level={getLevel("state")!} title="Uttar Pradesh" crumbs={[]} view={view} counts={stateCounts()} hideSource>
+    <Factsheet level={getLevel("state")!} title="Uttar Pradesh" crumbs={[]} view={view} counts={stateCounts()} hideSource hideTitle>
       <LocationPicker key={view} view={view} />
       <section className="overflow-hidden rounded-[24px] border border-white/80 bg-[#fffaf0] shadow-clay-card sm:grid sm:grid-cols-[minmax(0,0.42fr)_minmax(0,1fr)]" aria-labelledby="services-image-title">
         <div className="relative h-40 sm:h-full sm:min-h-[180px]">
@@ -25,7 +25,6 @@ export default function Home({ searchParams }: { searchParams: { view?: string }
           />
         </div>
         <div className="flex flex-col justify-center p-5 sm:p-7">
-          <p className="text-xs font-bold uppercase tracking-[0.14em] text-orange-800">Illustrative context</p>
           <h2 id="services-image-title" className="mt-1 text-xl font-bold tracking-tight text-amber-950">
             {view === "rural" ? "Rural infrastructure & services" : "Urban services & public spaces"}
           </h2>

@@ -10,7 +10,7 @@ import { LevelIcon } from "@/components/level-icon";
 import { CATS, resolve, type Level, type View } from "@/lib/factsheet";
 import type { Counts } from "@/lib/locations";
 export type Crumb = { label: string; href?: string };
-export function Factsheet({ level, title, crumbs, preview, view = "rural", counts = {}, hideSource = false, children }: { level: Level; title: string; crumbs: Crumb[]; preview?: boolean; view?: View; counts?: Counts; hideSource?: boolean; children?: React.ReactNode }) {
+export function Factsheet({ level, title, crumbs, preview, view = "rural", counts = {}, hideSource = false, hideTitle = false, children }: { level: Level; title: string; crumbs: Crumb[]; preview?: boolean; view?: View; counts?: Counts; hideSource?: boolean; hideTitle?: boolean; children?: React.ReactNode }) {
   const { kpis, tables } = resolve(level, view, counts);
   const scope = [...crumbs.map((c) => c.label), title, level.views ? view : ""].join("-");
   const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", heading: "text-orange-800", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
@@ -39,7 +39,7 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
             <div className={`rounded-[20px] border p-3 shadow-clay-soft ${isState ? "border-orange-900/10 bg-white/65" : "border-white/35 bg-white/15"}`}><LevelIcon k={level.icon} className={`h-8 w-8 ${isState ? "text-orange-700" : palette.accent}`} /></div>
             <div>
               <div className="mb-2 flex flex-wrap items-center gap-2">
-                <h1 className="text-2xl font-bold tracking-tight md:text-3xl">{title}</h1>
+                <h1 className={`${hideTitle ? "sr-only" : "text-2xl font-bold tracking-tight md:text-3xl"}`}>{title}</h1>
                 <Badge className={`${palette.pill} ring-1`}>{level.label} factsheet</Badge>
                 {preview && <Badge variant="warn" className="border-white/20 bg-white/15 text-white ring-1 ring-white/20">Format preview</Badge>}
               </div>
