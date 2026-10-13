@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { Building2, LayoutGrid } from "lucide-react";
 import { Factsheet } from "@/components/factsheet";
-import { LocationPicker } from "@/components/location-picker";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { DISTRICTS } from "@/lib/districts";
 import { getLevel } from "@/lib/factsheet";
@@ -13,7 +12,6 @@ export default function District({ params: { d }, searchParams }: { params: { d:
   const view = searchParams.view === "urban" ? "urban" : "rural";
   return (
     <Factsheet level={getLevel("district")!} title={districtName(d)} crumbs={[{ label: "Uttar Pradesh", href: "/" }]} view={view} counts={districtCounts(d)}>
-      <LocationPicker key={view} district={d} view={view} />
       {view === "rural" ? (
         <Card><CardHeader><CardTitle className="flex items-center gap-2"><LayoutGrid className="h-5 w-5 text-orange-600" />Blocks (Kshetra Panchayats)</CardTitle></CardHeader><CardContent className="flex flex-wrap gap-2">{blocksOf(d).map((b) => <Link key={b.slug} href={`/block/${d}/${b.slug}`} className={`${chip} border-white/80 bg-[#fffaf0] text-amber-950 shadow-clay-soft`}>{b.name}</Link>)}</CardContent></Card>
       ) : (

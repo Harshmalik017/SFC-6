@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ChevronRight } from "lucide-react";
+import { Building2, ChevronRight, TreePine } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { FactTable } from "@/components/fact-table";
@@ -15,6 +15,7 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
   const scope = [...crumbs.map((c) => c.label), title, level.views ? view : ""].join("-");
   const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", heading: "text-orange-800", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
   const isState = level.slug === "state";
+  const isDistrict = level.slug === "district";
   const sections = [...CATS.filter((c) => tables.some((t) => t.cat === c)).map((c) => ({ cat: c as string, node: <div className="space-y-4">{tables.filter((t) => t.cat === c).map((t) => <FactTable key={t.id} t={t} scope={scope} counts={counts} showSource={!hideSource} theme={palette} />)}</div> })), { cat: "Data quality", node: <Triangulation ids={level.checks} scope={scope} theme={palette} /> }];
   return (
     <div className="space-y-6">
@@ -46,6 +47,16 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
               {isState && <p className="mt-2 max-w-md text-sm leading-relaxed text-amber-950/75">Explore local-government factsheets across Uttar Pradesh, from rural communities to urban centres.</p>}
             </div>
           </div>
+          {isDistrict && (
+            <div className="flex w-fit items-center gap-1 rounded-2xl border border-white/25 bg-white/15 p-1.5 shadow-clay-soft" role="group" aria-label="Factsheet view">
+              {(["rural", "urban"] as View[]).map((area) => (
+                <Link key={area} href={`?view=${area}`} scroll={false} aria-current={area === view ? "page" : undefined} className={`flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/60 ${area === view ? "bg-white text-amber-950 shadow-clay-button" : "text-white/80 hover:bg-white/10 hover:text-white"}`}>
+                  {area === "rural" ? <TreePine className="h-4 w-4" /> : <Building2 className="h-4 w-4" />}
+                  {area === "rural" ? "Rural" : "Urban"}
+                </Link>
+              ))}
+            </div>
+          )}
         </div>
       </div>
       {children}
