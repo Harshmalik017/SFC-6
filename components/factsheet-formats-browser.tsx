@@ -84,16 +84,6 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
           {level.views && <Badge className={theme.pill}>{view === "rural" ? "Rural" : "Urban"} format</Badge>}
         </div>
 
-        <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
-          {dataset.kpis.map((kpi) => (
-            <div key={kpi.label} className={`rounded-2xl border border-white/80 bg-gradient-to-br ${theme.card} p-4 shadow-clay-soft`}>
-              <p className="text-[10px] font-bold uppercase tracking-[0.1em] text-amber-900/60">Key indicator</p>
-              <p className="mt-1 text-sm font-semibold text-amber-950">{kpi.label}</p>
-              <p className="mt-3 text-lg font-bold text-amber-900/35">{kpi.value ?? "—"}</p>
-            </div>
-          ))}
-        </div>
-
         <div className="space-y-5">
           {CATS.filter((category) => tables.some((table) => table.cat === category)).map((category) => (
             <section key={category} className="space-y-3">

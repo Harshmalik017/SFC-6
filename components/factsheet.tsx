@@ -11,12 +11,11 @@ import { CATS, resolve, type Level, type View } from "@/lib/factsheet";
 import type { Counts } from "@/lib/locations";
 export type Crumb = { label: string; href?: string };
 export function Factsheet({ level, title, crumbs, preview, view = "rural", counts = {}, hideSource = false, hideTitle = false, children }: { level: Level; title: string; crumbs: Crumb[]; preview?: boolean; view?: View; counts?: Counts; hideSource?: boolean; hideTitle?: boolean; children?: React.ReactNode }) {
-  const { kpis, tables } = resolve(level, view, counts);
+  const { tables } = resolve(level, view, counts);
   const scope = [...crumbs.map((c) => c.label), title, level.views ? view : ""].join("-");
   const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", heading: "text-orange-800", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
   const isState = level.slug === "state";
   const sections = [...CATS.filter((c) => tables.some((t) => t.cat === c)).map((c) => ({ cat: c as string, node: <div className="space-y-4">{tables.filter((t) => t.cat === c).map((t) => <FactTable key={t.id} t={t} scope={scope} counts={counts} showSource={!hideSource} theme={palette} />)}</div> })), { cat: "Data quality", node: <Triangulation ids={level.checks} scope={scope} theme={palette} /> }];
-  const tone = [palette.card, palette.card, palette.card, palette.card];
   return (
     <div className="space-y-6">
       <nav className="flex flex-wrap items-center gap-1 text-sm text-amber-900/55">{crumbs.map((c) => <span key={c.label} className="flex items-center gap-1">{c.href ? <Link href={c.href} className="transition hover:text-orange-700 hover:underline">{c.label}</Link> : c.label}<ChevronRight className="h-3 w-3" /></span>)}<span className="font-semibold text-amber-950">{title}</span></nav>
@@ -49,7 +48,6 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
           </div>
         </div>
       </div>
-      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{kpis.map((k, i) => <Card key={k.label} className={`overflow-hidden bg-gradient-to-br ${tone[i % tone.length]} border-white/80`}><CardContent className="p-5"><div className="mb-2 flex items-center justify-between"><span className="text-xs font-semibold uppercase tracking-[0.1em] text-amber-900/65">{k.label}</span><span className={`h-3 w-3 rounded-full border border-white/70 bg-gradient-to-br ${palette.hero} shadow-[2px_2px_5px_rgba(154,79,10,0.22),inset_1px_1px_1px_rgba(255,255,255,0.6)]`} /></div><div className={k.value ? "text-2xl font-bold tracking-tight text-amber-950" : "text-2xl font-bold tracking-tight text-amber-900/40"}>{k.value ?? "—"}</div></CardContent></Card>)}</div>
       {children}
       {!isState && <CatFilter key={view} sections={sections} theme={palette} />}
     </div>
