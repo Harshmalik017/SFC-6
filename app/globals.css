@@ -3,32 +3,32 @@
 @tailwind utilities;
 
 :root {
-  --background: 210 40% 98%;
-  --foreground: 222 47% 11%;
-  --card: 0 0% 100%;
-  --card-foreground: 222 47% 11%;
-  --primary: 222 47% 14%;
+  --background: 40 50% 96%;
+  --foreground: 25 32% 18%;
+  --card: 42 55% 97%;
+  --card-foreground: 25 32% 18%;
+  --primary: 25 78% 42%;
   --primary-foreground: 0 0% 100%;
-  --muted: 210 40% 94%;
-  --muted-foreground: 215 16% 40%;
-  --accent: 173 80% 36%;
+  --muted: 38 32% 91%;
+  --muted-foreground: 27 14% 43%;
+  --accent: 28 84% 46%;
   --accent-foreground: 0 0% 100%;
-  --border: 214 32% 88%;
+  --border: 35 32% 84%;
 }
 
 * { border-color: hsl(var(--border)); }
 
 html {
   scroll-behavior: smooth;
-  scrollbar-color: #0f766e #e2e8f0;
+  scrollbar-color: #d97706 #f3ead9;
   scrollbar-width: thin;
 }
 
 body {
   background:
-    radial-gradient(circle at top left, rgba(14, 165, 233, 0.12), transparent 26%),
-    radial-gradient(circle at top right, rgba(16, 185, 129, 0.12), transparent 24%),
-    linear-gradient(180deg, #f8fbff 0%, #f3f7fb 100%);
+    radial-gradient(ellipse at 8% 0%, rgba(251, 191, 36, 0.17), transparent 30%),
+    radial-gradient(ellipse at 94% 8%, rgba(234, 88, 12, 0.09), transparent 27%),
+    linear-gradient(180deg, #fffaf0 0%, #f7f1e5 55%, #f4ecdd 100%);
   color: hsl(var(--foreground));
 }
 
@@ -42,21 +42,34 @@ main {
 }
 
 ::-webkit-scrollbar-track {
-  background: #e2e8f0;
+  background: #f3ead9;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, #14b8a6 0%, #0f766e 100%);
+  background: linear-gradient(180deg, #fbbf24 0%, #d97706 100%);
   border-radius: 8px;
-  border: 2px solid #e2e8f0;
+  border: 2px solid #f3ead9;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, #2dd4bf 0%, #0f766e 100%);
+  background: linear-gradient(180deg, #fcd34d 0%, #ea580c 100%);
 }
 
 @layer components {
-  .soft-ring {
-    box-shadow: 0 0 0 1px rgba(15, 118, 110, 0.08);
+  .clay-panel {
+    border: 1px solid rgba(255, 255, 255, 0.82);
+    background: linear-gradient(145deg, #fffdf7, #f4ead8);
+    box-shadow:
+      10px 10px 24px rgba(129, 91, 37, 0.12),
+      -8px -8px 22px rgba(255, 255, 255, 0.86),
+      inset 1px 1px 0 rgba(255, 255, 255, 0.9);
+  }
+
+  .clay-inset {
+    border: 1px solid rgba(255, 255, 255, 0.76);
+    background: #f7f0e4;
+    box-shadow:
+      inset 4px 4px 10px rgba(129, 91, 37, 0.09),
+      inset -4px -4px 10px rgba(255, 255, 255, 0.9);
   }
 }

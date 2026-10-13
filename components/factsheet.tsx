@@ -14,32 +14,32 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
   const { kpis, tables } = resolve(level, view, counts);
   const scope = [...crumbs.map((c) => c.label), title, level.views ? view : ""].join("-");
   const sections = [...CATS.filter((c) => tables.some((t) => t.cat === c)).map((c) => ({ cat: c as string, node: <div className="space-y-4">{tables.filter((t) => t.cat === c).map((t) => <FactTable key={t.id} t={t} scope={scope} counts={counts} showSource={!hideSource} />)}</div> })), { cat: "Data quality", node: <Triangulation ids={level.checks} scope={scope} /> }];
-  const palette = level.theme ?? { hero: "from-slate-900 via-slate-800 to-slate-700", pill: "bg-white/10 text-white ring-white/10", accent: "text-teal-300", card: "from-sky-500/10 via-cyan-500/5 to-white", glow: "shadow-sky-500/20" };
-  const tone = [palette.card, "from-slate-50 via-white to-slate-50", "from-emerald-500/10 via-teal-500/5 to-white", "from-violet-500/10 via-indigo-500/5 to-white"];
+  const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
+  const tone = [palette.card, "from-[#fffaf0] via-[#fffdf8] to-[#f5ead7]", "from-orange-200/35 via-amber-100/45 to-[#fffaf0]", "from-amber-200/35 via-orange-100/45 to-[#fffaf0]"];
   return (
     <div className="space-y-6">
-      <nav className="flex flex-wrap items-center gap-1 text-sm text-slate-500">{crumbs.map((c) => <span key={c.label} className="flex items-center gap-1">{c.href ? <Link href={c.href} className="transition hover:text-slate-700 hover:underline">{c.label}</Link> : c.label}<ChevronRight className="h-3 w-3" /></span>)}<span className="font-medium text-slate-900">{title}</span></nav>
-      <div className={`overflow-hidden rounded-[28px] border border-slate-200 bg-gradient-to-br ${palette.hero} p-6 text-white shadow-[0_25px_50px_rgba(15,23,42,0.18)] ${palette.glow}`}>
+      <nav className="flex flex-wrap items-center gap-1 text-sm text-amber-900/55">{crumbs.map((c) => <span key={c.label} className="flex items-center gap-1">{c.href ? <Link href={c.href} className="transition hover:text-orange-700 hover:underline">{c.label}</Link> : c.label}<ChevronRight className="h-3 w-3" /></span>)}<span className="font-semibold text-amber-950">{title}</span></nav>
+      <div className={`overflow-hidden rounded-[30px] border border-white/65 bg-gradient-to-br ${palette.hero} p-6 text-white shadow-[12px_14px_28px_rgba(154,79,10,0.2),-8px_-8px_24px_rgba(255,255,255,0.82),inset_1px_1px_0_rgba(255,255,255,0.45)] ${palette.glow}`}>
         <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
           <div className="flex items-start gap-4">
-            <div className="rounded-2xl bg-white/10 p-3 ring-1 ring-white/15 backdrop-blur-sm"><LevelIcon k={level.icon} className={`h-8 w-8 ${palette.accent}`} /></div>
+            <div className="rounded-[20px] border border-white/35 bg-white/15 p-3 shadow-[5px_5px_12px_rgba(124,45,18,0.16),inset_2px_2px_5px_rgba(255,255,255,0.3)]"><LevelIcon k={level.icon} className={`h-8 w-8 ${palette.accent}`} /></div>
             <div>
               <div className="mb-2 flex flex-wrap items-center gap-2">
                 <h1 className="text-2xl font-bold tracking-tight md:text-3xl">{title}</h1>
                 <Badge className={`${palette.pill} ring-1`}>{level.label} factsheet</Badge>
-                {preview && <Badge variant="warn" className="bg-amber-400/15 text-amber-100 ring-1 ring-amber-300/30">Format preview</Badge>}
+                {preview && <Badge variant="warn" className="border-white/20 bg-white/15 text-white ring-1 ring-white/20">Format preview</Badge>}
               </div>
-              {level.blurb && <p className="max-w-2xl text-sm text-slate-200">{level.blurb}</p>}
+              {level.blurb && <p className="max-w-2xl text-sm text-orange-50/90">{level.blurb}</p>}
             </div>
           </div>
-          <div className="flex items-center gap-2 rounded-2xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-slate-100 shadow-inner shadow-white/5">
+          <div className="flex items-center gap-2 rounded-2xl border border-white/25 bg-white/15 px-3 py-2 text-sm text-white shadow-[4px_4px_10px_rgba(124,45,18,0.13),inset_1px_1px_0_rgba(255,255,255,0.3)]">
             <Sparkles className={`h-4 w-4 ${palette.accent}`} />
             <span>{view === "rural" ? "Rural lens" : "Urban lens"}</span>
           </div>
         </div>
       </div>
       {level.views && <div className="flex flex-wrap gap-2">{(["rural", "urban"] as View[]).map((v) => <Button key={v} asChild size="sm" variant={v === view ? "default" : "outline"} className={v === view ? `${palette.glow} shadow-lg` : "bg-white/80 text-slate-700 hover:bg-slate-50"}><Link href={`?view=${v}`} scroll={false}>{v === "rural" ? <TreePine className="h-4 w-4" /> : <Building2 className="h-4 w-4" />}{v === "rural" ? "Rural" : "Urban"}</Link></Button>)}</div>}
-      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{kpis.map((k, i) => <Card key={k.label} className={`overflow-hidden bg-gradient-to-br ${tone[i % tone.length]} border-slate-200`}><CardContent className="p-5"><div className="mb-2 flex items-center justify-between"><span className="text-xs font-medium uppercase tracking-[0.12em] text-slate-500">{k.label}</span><span className={`h-2.5 w-2.5 rounded-full bg-gradient-to-r ${palette.hero}`} /></div><div className={k.value ? "text-2xl font-bold tracking-tight text-slate-900" : "text-2xl font-bold tracking-tight text-slate-400"}>{k.value ?? "—"}</div></CardContent></Card>)}</div>
+      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{kpis.map((k, i) => <Card key={k.label} className={`overflow-hidden bg-gradient-to-br ${tone[i % tone.length]} border-white/80`}><CardContent className="p-5"><div className="mb-2 flex items-center justify-between"><span className="text-xs font-semibold uppercase tracking-[0.1em] text-amber-900/65">{k.label}</span><span className={`h-3 w-3 rounded-full border border-white/70 bg-gradient-to-br ${palette.hero} shadow-[2px_2px_5px_rgba(154,79,10,0.22),inset_1px_1px_1px_rgba(255,255,255,0.6)]`} /></div><div className={k.value ? "text-2xl font-bold tracking-tight text-amber-950" : "text-2xl font-bold tracking-tight text-amber-900/40"}>{k.value ?? "—"}</div></CardContent></Card>)}</div>
       {children}
       <CatFilter key={view} sections={sections} theme={palette} />
     </div>

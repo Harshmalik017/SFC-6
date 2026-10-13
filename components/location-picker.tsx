@@ -5,7 +5,7 @@ import { ArrowRight, Compass, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { DISTRICTS } from "@/lib/districts";
 import { BODY_TYPES, type LocationDetail } from "@/lib/location-types";
-const sel = "h-12 w-full rounded-xl border border-slate-200 bg-white px-3 text-sm text-slate-700 shadow-sm transition focus:border-teal-500 focus:outline-none focus:ring-2 focus:ring-teal-500/20 disabled:cursor-not-allowed disabled:bg-slate-100 disabled:text-slate-400";
+const sel = "h-12 w-full rounded-2xl border border-white/80 bg-[#fffaf0] px-3 text-sm text-amber-950 shadow-[inset_4px_4px_9px_rgba(129,91,37,0.09),inset_-4px_-4px_9px_rgba(255,255,255,0.85)] transition focus:border-orange-400 focus:outline-none focus:ring-2 focus:ring-orange-400/20 disabled:cursor-not-allowed disabled:bg-amber-50 disabled:text-amber-900/35";
 export function LocationPicker({ district = "", view = "rural" }: { district?: string; view?: "rural" | "urban" }) {
   const r = useRouter();
   const [d, setD] = useState(district); const [b, setB] = useState(""); const [g, setG] = useState("");
@@ -27,13 +27,13 @@ export function LocationPicker({ district = "", view = "rural" }: { district?: s
     ? (detail?.blocks.find((x) => x.slug === b)?.gps ?? [])
     : (detail?.localBodies.filter((x) => x.typeSlug === b) ?? []);
   return (
-    <div className="rounded-[28px] border border-slate-200 bg-gradient-to-br from-white via-slate-50 to-teal-50 p-5 shadow-[0_18px_40px_rgba(15,23,42,0.06)]">
+    <div className="rounded-[28px] border border-white/80 bg-gradient-to-br from-[#fffdf8] via-[#fbf1df] to-[#f7e5c4] p-5 shadow-[9px_10px_22px_rgba(129,91,37,0.12),-8px_-8px_20px_rgba(255,255,255,0.86),inset_1px_1px_0_rgba(255,255,255,0.9)]">
       <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <p className="flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.14em] text-teal-700"><Compass className="h-3.5 w-3.5" />Quick explorer</p>
-          <h2 className="mt-1 text-xl font-bold tracking-tight text-slate-900">Drill into the state hierarchy</h2>
+          <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em] text-orange-800"><Compass className="h-3.5 w-3.5" />Quick explorer</p>
+          <h2 className="mt-1 text-xl font-bold tracking-tight text-amber-950">Drill into the state hierarchy</h2>
         </div>
-        <div className="inline-flex items-center gap-2 rounded-full border border-teal-200 bg-teal-50 px-3 py-1.5 text-xs font-medium text-teal-800">
+        <div className="inline-flex items-center gap-2 rounded-full border border-white/80 bg-[#fff8e8] px-3 py-1.5 text-xs font-semibold text-orange-900 shadow-[3px_3px_7px_rgba(129,91,37,0.09),-3px_-3px_7px_rgba(255,255,255,0.8)]">
           <MapPin className="h-3.5 w-3.5" />
           {view === "rural" ? "Rural mode" : "Urban mode"}
         </div>

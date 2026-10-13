@@ -15,9 +15,9 @@ export default function District({ params: { d }, searchParams }: { params: { d:
     <Factsheet level={getLevel("district")!} title={districtName(d)} crumbs={[{ label: "Uttar Pradesh", href: "/" }]} view={view} counts={districtCounts(d)}>
       <LocationPicker key={view} district={d} view={view} />
       {view === "rural" ? (
-        <Card><CardHeader><CardTitle className="flex items-center gap-2"><LayoutGrid className="h-5 w-5 text-teal-600" />Blocks (Kshetra Panchayats)</CardTitle></CardHeader><CardContent className="flex flex-wrap gap-2">{blocksOf(d).map((b) => <Link key={b.slug} href={`/block/${d}/${b.slug}`} className={chip}>{b.name}</Link>)}</CardContent></Card>
+        <Card><CardHeader><CardTitle className="flex items-center gap-2"><LayoutGrid className="h-5 w-5 text-orange-600" />Blocks (Kshetra Panchayats)</CardTitle></CardHeader><CardContent className="flex flex-wrap gap-2">{blocksOf(d).map((b) => <Link key={b.slug} href={`/block/${d}/${b.slug}`} className={`${chip} border-white/80 bg-[#fffaf0] text-amber-950 shadow-[3px_3px_7px_rgba(129,91,37,0.08),-3px_-3px_7px_rgba(255,255,255,0.8)]`}>{b.name}</Link>)}</CardContent></Card>
       ) : (
-        <Card><CardHeader><CardTitle className="flex items-center gap-2"><Building2 className="h-5 w-5 text-teal-600" />Urban local bodies</CardTitle></CardHeader><CardContent className="space-y-3">{BODY_TYPES.map((t) => <div key={t.slug}><p className="mb-1 text-xs font-medium text-muted-foreground">{t.name}</p><div className="flex flex-wrap gap-2">{bodiesOf(d, t.slug).map((n) => <Link key={n.slug} href={`/urban/${d}/${t.slug}/${n.slug}`} className={chip}>{n.name}</Link>)}</div></div>)}</CardContent></Card>
+        <Card><CardHeader><CardTitle className="flex items-center gap-2"><Building2 className="h-5 w-5 text-orange-600" />Urban local bodies</CardTitle></CardHeader><CardContent className="space-y-3">{BODY_TYPES.map((t) => <div key={t.slug}><p className="mb-1 text-xs font-medium text-amber-900/65">{t.name}</p><div className="flex flex-wrap gap-2">{bodiesOf(d, t.slug).map((n) => <Link key={n.slug} href={`/urban/${d}/${t.slug}/${n.slug}`} className={`${chip} border-white/80 bg-[#fffaf0] text-amber-950 shadow-[3px_3px_7px_rgba(129,91,37,0.08),-3px_-3px_7px_rgba(255,255,255,0.8)]`}>{n.name}</Link>)}</div></div>)}</CardContent></Card>
       )}
     </Factsheet>
   );

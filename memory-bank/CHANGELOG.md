@@ -1,4 +1,15 @@
 # CHANGELOG
+# Latest reports and theme update
+- Consolidated report listing, page filtering, language switching, and exports into `/reports`; each form now opens in a dialog, and the information note expands inline.
+- Removed the redundant `/reports/[id]` and `/reports/information-note` pages; report data loads on demand when opening a form.
+- Kept the global orange/yellow claymorphism palette while assigning distinct hierarchy colors to State, District, Block, Gram Panchayat, and Urban Local Body factsheets.
+
+# Latest visual refresh
+- Replaced the cool slate/teal design with a warm orange-to-yellow palette across the shared UI, navigation, location explorers, factsheets, tables, reports, map, and charts.
+- Applied a restrained claymorphism treatment: warm molded surfaces, soft raised/inset shadows, rounded corners, and tactile controls instead of repeated glossy gradients.
+- Unified all State, District, Block, Gram Panchayat, and Urban Local Body factsheets under the same orange/yellow theme.
+- Marked homepage chart figures as illustrative demo values, not official finance data.
+
 ## 0.6.0
 - Homepage redesigned with stronger card hierarchy, richer gradients, and improved quick-explorer interactions.
 - Added interactive dashboard charts: receipts trend area chart, funding mix donut chart, and tier contribution bar chart.
