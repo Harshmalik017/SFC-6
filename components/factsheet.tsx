@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Building2, ChevronRight, Sparkles, TreePine } from "lucide-react";
+import { ChevronRight, Sparkles } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { FactTable } from "@/components/fact-table";
@@ -53,10 +53,9 @@ export function Factsheet({ level, title, crumbs, preview, view = "rural", count
           </div>
         </div>
       </div>
-      {level.views && <div className="inline-flex w-fit flex-wrap gap-1 rounded-2xl border border-white/80 bg-[#f7f0e4] p-1.5 shadow-[inset_4px_4px_9px_rgba(129,91,37,0.09),inset_-4px_-4px_9px_rgba(255,255,255,0.85)]" role="group" aria-label="Factsheet view">{(["rural", "urban"] as View[]).map((v) => <Link key={v} href={`?view=${v}`} scroll={false} aria-current={v === view ? "page" : undefined} className={`flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-orange-500/50 ${v === view ? `bg-gradient-to-br ${palette.hero} text-white shadow-clay-button` : "text-amber-900/65 hover:bg-white/70 hover:text-amber-950"}`}>{v === "rural" ? <TreePine className="h-4 w-4" /> : <Building2 className="h-4 w-4" />}{v === "rural" ? "Rural" : "Urban"}</Link>)}</div>}
       <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{kpis.map((k, i) => <Card key={k.label} className={`overflow-hidden bg-gradient-to-br ${tone[i % tone.length]} border-white/80`}><CardContent className="p-5"><div className="mb-2 flex items-center justify-between"><span className="text-xs font-semibold uppercase tracking-[0.1em] text-amber-900/65">{k.label}</span><span className={`h-3 w-3 rounded-full border border-white/70 bg-gradient-to-br ${palette.hero} shadow-[2px_2px_5px_rgba(154,79,10,0.22),inset_1px_1px_1px_rgba(255,255,255,0.6)]`} /></div><div className={k.value ? "text-2xl font-bold tracking-tight text-amber-950" : "text-2xl font-bold tracking-tight text-amber-900/40"}>{k.value ?? "—"}</div></CardContent></Card>)}</div>
       {children}
-      <CatFilter key={view} sections={sections} theme={palette} />
+      {!isState && <CatFilter key={view} sections={sections} theme={palette} />}
     </div>
   );
 }

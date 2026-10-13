@@ -2,7 +2,6 @@ import Image from "next/image";
 import { Factsheet } from "@/components/factsheet";
 import { LocationPicker } from "@/components/location-picker";
 import { StateMap } from "@/components/state-map";
-import { StateOverviewCharts } from "@/components/state-overview-charts";
 import { Card, CardContent } from "@/components/ui/card";
 import { getLevel } from "@/lib/factsheet";
 import { stateCounts } from "@/lib/locations";
@@ -35,7 +34,6 @@ export default function Home({ searchParams }: { searchParams: { view?: string }
           </p>
         </div>
       </section>
-      <StateOverviewCharts />
       <Card>
         <CardContent className="pt-6">
           <StateMap />
