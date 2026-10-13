@@ -15,6 +15,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
     hero: "from-orange-600 via-orange-500 to-amber-400",
     pill: "bg-amber-100 text-amber-950 ring-amber-200",
     accent: "text-orange-700",
+    heading: "text-orange-800",
     card: "from-amber-100 to-orange-50",
     glow: "shadow-orange-500/15",
   };
@@ -48,7 +49,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
             <LevelIcon k={level.icon} className="h-6 w-6" />
           </div>
           <div className="min-w-0">
-            <p className={`text-[10px] font-bold uppercase tracking-[0.16em] ${theme.accent}`}>Factsheet format preview</p>
+            <p className={`text-[10px] font-bold uppercase tracking-[0.16em] ${theme.heading}`}>Factsheet format preview</p>
             <h2 id="format-dialog-title" className="truncate text-lg font-bold text-amber-950">{level.label}</h2>
             {level.blurb && <p className="truncate text-xs text-amber-900/60">{level.blurb}</p>}
           </div>
@@ -96,7 +97,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
         <div className="space-y-5">
           {CATS.filter((category) => tables.some((table) => table.cat === category)).map((category) => (
             <section key={category} className="space-y-3">
-              <h3 className={`border-b border-amber-200/80 pb-2 text-base font-bold ${theme.accent}`}>{category}</h3>
+              <h3 className={`border-b border-amber-200/80 pb-2 text-base font-bold ${theme.heading}`}>{category}</h3>
               <div className="grid gap-3 lg:grid-cols-2">
                 {tables.filter((table) => table.cat === category).map((table) => (
                   <article key={table.id} className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
@@ -130,7 +131,7 @@ function FormatDialog({ level, onClose }: { level: Level; onClose: () => void })
             </section>
           ))}
           <section className="rounded-2xl border border-white/80 bg-[#fffaf0] p-4 shadow-clay-soft">
-            <h3 className={`text-sm font-bold ${theme.accent}`}>Data quality checks</h3>
+            <h3 className={`text-sm font-bold ${theme.heading}`}>Data quality checks</h3>
             <p className="mt-1 text-xs text-amber-900/60">Checks are defined for this factsheet and will run once department data is loaded.</p>
             <div className="mt-3 flex flex-wrap gap-2">
               {level.checks.map((check) => <Badge key={check} variant="secondary">{check.toUpperCase()}</Badge>)}

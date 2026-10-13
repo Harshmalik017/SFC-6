@@ -8,13 +8,13 @@ export const nr = (r: Row) => (typeof r === "string" ? { l: r, u: undefined, n: 
 export type Tbl = { id: string; title: string; cat: Cat; src: string; unit: string; cols: string[]; rows: Row[] };
 export type KPI = { label: string; value?: string };
 export type View = "rural" | "urban";
-export type Theme = { hero: string; pill: string; accent: string; card: string; glow: string };
+export type Theme = { hero: string; pill: string; accent: string; heading: string; card: string; glow: string };
 export type Level = { slug: string; label: string; icon: string; blurb: string; kpis: KPI[]; tables: Tbl[]; views?: Record<View, { kpis: KPI[]; tables: Tbl[] }>; checks: string[]; theme?: Theme };
-const STATE_THEME: Theme = { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-orange-100 text-orange-950 ring-orange-200", accent: "text-yellow-200", card: "from-amber-300/25 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
-const DISTRICT_THEME: Theme = { hero: "from-rose-700 via-red-600 to-orange-500", pill: "bg-rose-100 text-rose-950 ring-rose-200", accent: "text-rose-200", card: "from-rose-200/25 via-orange-100/45 to-[#fffaf0]", glow: "shadow-rose-500/15" };
-const BLOCK_THEME: Theme = { hero: "from-emerald-700 via-green-600 to-lime-500", pill: "bg-emerald-100 text-emerald-950 ring-emerald-200", accent: "text-lime-200", card: "from-lime-200/30 via-amber-100/45 to-[#fffaf0]", glow: "shadow-emerald-500/15" };
-const GP_THEME: Theme = { hero: "from-sky-700 via-cyan-600 to-teal-500", pill: "bg-sky-100 text-sky-950 ring-sky-200", accent: "text-cyan-200", card: "from-sky-200/25 via-cyan-100/45 to-[#fffaf0]", glow: "shadow-sky-500/15" };
-const URBAN_THEME: Theme = { hero: "from-violet-700 via-purple-600 to-fuchsia-500", pill: "bg-violet-100 text-violet-950 ring-violet-200", accent: "text-fuchsia-200", card: "from-violet-200/25 via-fuchsia-100/45 to-[#fffaf0]", glow: "shadow-violet-500/15" };
+const STATE_THEME: Theme = { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-orange-100 text-orange-950 ring-orange-200", accent: "text-yellow-200", heading: "text-orange-800", card: "from-amber-300/25 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
+const DISTRICT_THEME: Theme = { hero: "from-rose-700 via-red-600 to-orange-500", pill: "bg-rose-100 text-rose-950 ring-rose-200", accent: "text-rose-200", heading: "text-rose-800", card: "from-rose-200/25 via-orange-100/45 to-[#fffaf0]", glow: "shadow-rose-500/15" };
+const BLOCK_THEME: Theme = { hero: "from-emerald-700 via-green-600 to-lime-500", pill: "bg-emerald-100 text-emerald-950 ring-emerald-200", accent: "text-lime-200", heading: "text-emerald-800", card: "from-lime-200/30 via-amber-100/45 to-[#fffaf0]", glow: "shadow-emerald-500/15" };
+const GP_THEME: Theme = { hero: "from-sky-700 via-cyan-600 to-teal-500", pill: "bg-sky-100 text-sky-950 ring-sky-200", accent: "text-cyan-200", heading: "text-sky-800", card: "from-sky-200/25 via-cyan-100/45 to-[#fffaf0]", glow: "shadow-sky-500/15" };
+const URBAN_THEME: Theme = { hero: "from-violet-700 via-purple-600 to-fuchsia-500", pill: "bg-violet-100 text-violet-950 ring-violet-200", accent: "text-fuchsia-200", heading: "text-violet-800", card: "from-violet-200/25 via-fuchsia-100/45 to-[#fffaf0]", glow: "shadow-violet-500/15" };
 export const resolve = (l: Level, v: View, counts: Counts = {}) => {
   const s = l.views ? l.views[v] : { kpis: l.kpis, tables: l.tables };
   return { kpis: s.kpis.map((k) => ({ ...k, value: counts[k.label] ?? k.value })), tables: s.tables };
