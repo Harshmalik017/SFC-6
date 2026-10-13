@@ -1,4 +1,10 @@
 # CHANGELOG
+## 0.6.0
+- Homepage redesigned with stronger card hierarchy, richer gradients, and improved quick-explorer interactions.
+- Added interactive dashboard charts: receipts trend area chart, funding mix donut chart, and tier contribution bar chart.
+- Different factsheet levels now use distinct color themes: State (sky), District (violet), Block (amber), Gram Panchayat (emerald), Urban (fuchsia).
+- KPI summaries and hero panels now reflect each factsheet's theme instead of a single flat teal treatment.
+- Category filter chips, active states, and section icons inherit the matching factsheet theme.
 ## 0.3.0
 - Rural / Urban views separated on State and District factsheets (?view=rural|urban); drill-down cards shown per view only.
 - District names labelled on the map.
