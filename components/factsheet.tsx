@@ -13,7 +13,7 @@ export type Crumb = { label: string; href?: string };
 export function Factsheet({ level, title, crumbs, preview, view = "rural", counts = {}, hideSource = false, children }: { level: Level; title: string; crumbs: Crumb[]; preview?: boolean; view?: View; counts?: Counts; hideSource?: boolean; children?: React.ReactNode }) {
   const { kpis, tables } = resolve(level, view, counts);
   const scope = [...crumbs.map((c) => c.label), title, level.views ? view : ""].join("-");
-  const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
+  const palette = level.theme ?? { hero: "from-orange-600 via-orange-500 to-amber-400", pill: "bg-amber-100 text-amber-950 ring-amber-200", accent: "text-amber-300", heading: "text-orange-800", card: "from-amber-300/20 via-orange-100/55 to-[#fffaf0]", glow: "shadow-orange-500/15" };
   const isState = level.slug === "state";
   const sections = [...CATS.filter((c) => tables.some((t) => t.cat === c)).map((c) => ({ cat: c as string, node: <div className="space-y-4">{tables.filter((t) => t.cat === c).map((t) => <FactTable key={t.id} t={t} scope={scope} counts={counts} showSource={!hideSource} theme={palette} />)}</div> })), { cat: "Data quality", node: <Triangulation ids={level.checks} scope={scope} theme={palette} /> }];
   const tone = [palette.card, palette.card, palette.card, palette.card];
